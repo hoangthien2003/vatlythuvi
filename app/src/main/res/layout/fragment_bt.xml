@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/red"
+    android:gravity="center"
+    tools:context=".Fragments.bt">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="260dp"
+        android:layout_height="65dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="CĐ 1: Động học chất điểm"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="260dp"
+        android:layout_height="65dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="CĐ 2: Động lực học chất điểm "
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="260dp"
+        android:layout_height="65dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="CĐ 3: Các định luật bảo toàn"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="260dp"
+        android:layout_height="65dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="CĐ 4: Chất khí "
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="260dp"
+        android:layout_height="65dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="CĐ 5: Cơ sở của nhiệt động lực học "
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="260dp"
+        android:layout_height="65dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="CĐ 6: Chất rắn và chất lỏng. Sự chuyển thể "
+        android:textSize="16sp" />
+
+</LinearLayout>

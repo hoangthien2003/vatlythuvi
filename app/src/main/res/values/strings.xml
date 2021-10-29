@@ -1,0 +1,1231 @@
+<resources>
+    <string name="app_name" translatable="false">Vật lý thú vị</string>
+    <string name="c1" translatable="false">Động học chất điểm</string>
+    <string name="c2" translatable="false">Động lực học chất điểm</string>
+    <string name="c3" translatable="false">Cân bằng và chuyển động của vật rắn</string>
+    <string name="c4" translatable="false">Các định luật bảo toàn</string>
+    <string name="c5" translatable="false">Chất khí</string>
+    <string name="c6" translatable="false">Cơ sở của nhiệt động lực học</string>
+    <string name="c7" translatable="false">Chất rắn và chất lỏng. Sự chuyển thể</string>
+    <string name="c1_b1" translatable="false">Chuyển động cơ</string>
+    <string name="c1_b2" translatable="false">Chuyển động thẳng đều</string>
+    <string name="c1_b3" translatable="false">Chuyển động thẳng biến đổi đều</string>
+    <string name="c1_b4" translatable="false">Sự rơi tự do</string>
+    <string name="c1_b5" translatable="false">Chuyển động tròn đều</string>
+    <string name="c1_b6" translatable="false">Tính tương đối của chuyển động. Công thức cộng vận tốc</string>
+    <string name="c1_b7" translatable="false">Sai số của phép đo các đại lượng vật lí</string>
+    <string name="c2_b1" translatable="false">Tổng hợp và phân tích lực. Điều kiện cân bằng của chất điểm</string>
+    <string name="c2_b2" translatable="false">Ba định luật Niu-tơn</string>
+    <string name="c2_b3" translatable="false">Lực hấp dẫn. Định luật vạn vật hấp dẫn</string>
+    <string name="c2_b4" translatable="false">Lực đàn hồi của lò xo. Định luật Húc</string>
+    <string name="c2_b5" translatable="false">Lực ma sát</string>
+    <string name="c2_b6" translatable="false">Lực hướng tâm</string>
+    <string name="c2_b7" translatable="false">Bài toán về chuyển động ném ngang</string>
+    <string name="c3_b1" translatable="false">Cân bằng của một vật chịu tác dụng của hai lực và của ba lực không song song</string>
+    <string name="c3_b2" translatable="false">Cân bằng của một vật có trục quay cố định. Momen lực</string>
+    <string name="c3_b3" translatable="false">Quy tắc hợp lực song song cùng chiều</string>
+    <string name="c3_b4" translatable="false">Các dạng cân bằng. Cân bằng của một vật có mặt chân đế</string>
+    <string name="c3_b5" translatable="false">Chuyển động tịnh tiến của vật rắn. Chuyển động quay của vật rắn quanh một trục cố định</string>
+    <string name="c3_b6" translatable="false">Ngẫu lực</string>
+    <string name="c4_b1" translatable="false">Động lượng. Định luật bảo toàn động lượng</string>
+    <string name="c4_b2" translatable="false">Công và Công suất</string>
+    <string name="c4_b3" translatable="false">Động năng</string>
+    <string name="c4_b4" translatable="false">Thế năng</string>
+    <string name="c4_b5" translatable="false">Cơ năng</string>
+    <string name="c5_b1" translatable="false">Cấu tạo chất. Thuyết động học phân tử chất khí</string>
+    <string name="c5_b2" translatable="false">Quá trình đẳng nhiệt. Định luật Bôi-lơ-Ma-ri-ốt</string>
+    <string name="c5_b3" translatable="false">Quá trình đẳng tích. Định luật Sác-lơ</string>
+    <string name="c5_b4" translatable="false">Phương trình trạng thái của khí lí tưởng</string>
+    <string name="c6_b1" translatable="false">Nội năng và sự biến thiên nội năng</string>
+    <string name="c6_b2" translatable="false">Các nguyên lí của nhiệt động lực học</string>
+    <string name="c7_b1" translatable="false">Chất rắn kết tinh. Chất rắn vô định hình</string>
+    <string name="c7_b2" translatable="false">Biến dạng cơ của vật rắn</string>
+    <string name="c7_b3" translatable="false">Sự nở vì nhiệt của vật rắn</string>
+    <string name="c7_b4" translatable="false">Các hiện tượng bề mặt của chất lỏng</string>
+    <string name="c7_b5" translatable="false">Sự chuyển thể của các chất</string>
+    <string name="c7_b6" translatable="false">Độ ẩm của không khí</string>
+    <string name="c1_b1_p1" translatable="false">I. Chuyển động cơ – Chất điểm$\\newline$
+1. Chuyển động cơ$\\newline$
+•	Chuyển động của một vật là sự thay đổi vị trí của vật đó so với các vật khác theo thời gian. $$\\newline$$
+2. Chất điểm$\\newline$
+•	  Những vật có kích thước rất nhỏ so với độ dài đường đi (hoặc với những khoảng cách mà ta đề cập đến), được coi là chất điểm. $\\newline$
+•	  Khi một vật được coi là chất điểm thì khối lượng của vật coi như tập trung tại chất điểm đó. $$\\newline$$
+3. Quỹ đạo$\\newline$
+•	  Quỹ đạo của chuyển động là đường mà chất điểm chuyển động vạch ra trong không gian. $$\\newline$$
+II. Cách xác định vị trí của vật trong không gian. $\\newline$
+1. Vật làm mốc và thước đo$\\newline$
+•	  Để xác định chính xác vị trí của vật ta chọn một vật làm mốc và một chiều dương trên quỹ đạo rồi dùng thước đo chiều dài đoạn đường từ vật làm mốc đến vật. $$\\newline$$
+2. Hệ toạ độ$\\newline$
+a) Hệ toạ độ 1 trục (sử dụng khi vật chuyển động trên một đường thẳng)
+</string>
+    <string name="c1_b1_p2" translatable="false">•	Toạ độ của vật ở vị trí M : $x = \\overline {OM} $ $\\newline$
+b) Hệ toạ độ 2 trục (sử dụng khi vật chuyển động trên một đường cong trong một mặt phẳng)
+</string>
+    <string name="c1_b1_p3" translatable="false">•	Toạ độ của vật ở vị trí M : $\\newline$
+$$\\begin{array}{l}
+x = {\\overline {OM} _x}\\\\
+y = {\\overline {OM} _y}
+\\end{array}$$
+</string>
+
+    <string name="c1_b2_p1">I. Chuyển động thẳng đều$\\newline$
+1. Tốc độ trung bình. $\\newline$
+•	Biểu diễn chuyển động của chất điểm trên hệ trục toạ độ$\\newline$
+</string>
+    <string name="c1_b2_p2">•	Ta có: $\\newline$
+${v_{tb}} = \\frac{s}{t}$ $\\newline$
+  Với :  $$s{\\rm{ }} = {\\rm{ }}{x_2}-{\\rm{ }}{x_1};{\\rm{ }}t{\\rm{ }} = {\\rm{ }}{t_2}-{\\rm{ }}{t_1}$$
+2. Chuyển động thẳng đều. $\\newline$
+•	  Chuyển động thẳng đều là chuyển động có quỹ đạo là đường thẳng và có tốc độ trung bình như nhau trên mọi quãng đường. $$\\newline$$
+3. Quãng đường đi trong chuyển động thẳng đều. $\\newline$
+$$s = {\\rm{ }}{v_{tb}}.t = {\\rm{ }}vt$$
+  Trong chuyển động thẳng đều, quãng đường đi được s tỉ lệ thuận với thời gian chuyển động t. $$\\newline$$
+II. Phương trình chuyển động và đồ thị toạ độ – thời gian. $\\newline$
+1. Phương trình chuyển động. $\\newline$
+•	Để xác định chuyển động của một chất điểm chúng ta cần biết vị trí của chất điểm tại những thời điểm khác nhau. Phương trình này biểu diễn vị trí của chất điểm theo thời gian và gọi là phương trình chuyển động của chất điểm. $\\newline$
+ $$x{\\rm{ }} = {\\rm{ }}{x_o} + {\\rm{ }}s{\\rm{ }} = {\\rm{ }}{x_o} + {\\rm{ }}vt$$
+2. Đồ thị toạ độ – thời gian của chuyển động thẳng đều. $\\newline$
+•	Với ${x_o} = 5{\\rm{ }}km$ và $v = 10 km/h$ thì ta có: $\\newline$
+•	$x = 5 + 10t (km)$ (2.4) $\\newline$với t tính bằng giờ. $\\newline$
+
+•	a) Bảng$\\newline$
+
+•	Dựa vào phương trình $(2.4)$ để lập bảng $(x,t)$  $\\newline$
+</string>
+    <string name="c1_b2_p3">•	b) Đồ thị$\\newline$</string>
+    <string name="c1_b2_p4">•	Đồ thị toạ độ – thời gian biểu diễn sự phụ thuộc của tọa độ của vật chuyển động vào thời gian</string>
+    <string name="c1_b3_p1">I. Vận tốc tức thời. Chuyển động thẳng biến đổi đều. $\\newline$
+1. Độ lớn của vận tốc tức thời. $\\newline$  Trong khoảng thời gian rất ngắn $\\Delta t$ , kể từ lúc ở M vật dời được một đoạn đường $\\Delta s$ rất ngắn thì đại lượng : $v = \\frac{{\\Delta s}}{{\\Delta t}}$ là độ lớn vận tốc tức thời của vật tại M. $\\newline$
+•	  Đơn vị vận tốc là m/s$$\\newline$$
+2. Véc tơ vận tốc tức thời. $\\newline$
+•	  Véc tơ vận tốc tức thời của một vật tại một điểm là một véc tơ có gốc tại vật chuyển động, có hướng của chuyển động và có độ dài tỉ lệ với độ lớn của vận tốc tức thời theo một tỉ xích nào đó. $$\\newline$$
+3. Chuyển động thẳng biến đổi đều$\\newline$
+•	  Chuyển động thẳng biến đổi đều là chuyển động thẳng trong đó vận tốc tức thời hoặc tăng dần đều hoặc giảm dần đều theo thời gian. $\\newline$
+•	  Vận tốc tức thời tăng dần đều theo thời gian gọi là chuyển động nhanh dần đều. $\\newline$
+•	  Vận tốc tức thời giảm dần đều theo thời gian gọi là chuyển động chậm dần đều. $$\\newline$$
+II. Chuyển động thẳng nhanh dần đều. $\\newline$
+1. Gia tốc trong chuyển động thẳng nhanh dần đều. $\\newline$
+  a) Khái niệm gia tốc. $\\newline$
+$a = \\frac{{\\Delta v}}{{\\Delta t}}$ $\\newline$
+  Với :$$\\Delta v = v{\\rm{ }}-{\\rm{ }}{v_o};$$
+        $$\\Delta t =  t{\\rm{ }}-{\\rm{ }}{t_o}$$
+•	  Gia tốc của chuyển động là đại lượng xác định bằng thương số giữa độ biến thiên vận tốc $\\Delta v$  và khoảng thời gian vận tốc biến thiên $\\Delta t$.$\\newline$
+•	  Đơn vị gia tốc là $m/{s^2}$ . $\\newline$
+  b) Véc tơ gia tốc. $\\newline$
+•	  Vì vận tốc là đại lượng véc tơ nên gia tốc cũng là đại lượng véc tơ : $\\newline$
+$\\overrightarrow a  = \\frac{{\\overrightarrow v  - \\overrightarrow {{v_0}} }}{{t - {t_0}}} = \\frac{{\\Delta \\overrightarrow v }}{{\\Delta t}}$ $\\newline$
+•	  Véc tơ gia tốc của chuyển động thẳng nhanh dần đều cùng phương, cùng chiều với véc tơ vận tốc. $$\\newline$$
+2. Vận tốc của chuyển động thẳng nhanh dần đều. $\\newline$
+  a) Công thức tính vận tốc. $\\newline$
+$$v{\\rm{ }} = {\\rm{ }}{v_o} + {\\rm{ }}at$$
+•	Đây là công thức tính vận tốc. Nó cho ta biết vận tốc của vật ở những thời điểm khác nhau$\\newline$
+  b) Đồ thị vận tốc – thời gian. $\\newline$
+</string>
+    <string name="c1_b3_p2">3. Đường đi của chuyển động thẳng nhanh dần đều. $\\newline$
+$$s = {v_0}t + \\frac{1}{2}{t^2}$$
+4. Công thức liên hệ giữa a, v và s của chuyển động thẳng nhanh dần đều. $\\newline$
+$${v^2}--{\\rm{ }}{v_o}^2 = {\\rm{ }}2as$$
+5. Phương trình chuyển động của chuyển động thẳng nhanh dần đều. $\\newline$
+$$x{\\rm{ }} = {\\rm{ }}{x_o} + {v_o}t{\\rm{ }} + \\frac{1}{2}a{t^2}$$
+III. Chuyển động thẳng chậm dần đều. $\\newline$
+1. Gia tốc của chuyển động thẳng chậm dần đều. $\\newline$
+  a) Công thức tinh gia tốc.
+$$a = \\frac{{\\Delta v}}{{\\Delta t}} = \\frac{{v - {v_0}}}{t}$$
+•	    Nếu chọn chiều của các vận tốc là chiều dương thì v &lt; vo. Gia tốc a có giá trị âm, nghĩa là ngược dấu với vận tốc. $\\newline$
+  b) Véc tơ gia tốc. $\\newline$
+•	  Ta có :  $\\overrightarrow a  = \\frac{{\\Delta \\overrightarrow v }}{{\\Delta t}}$ $\\newline$
+•	  Vì véc tơ  $\\,\\overrightarrow {v\\,} \\,$  cùng hướng nhưng ngắn hơn véc tơ  $\\,\\overrightarrow {v_0\\,} \\,$ nên ${\\Delta \\overrightarrow v }$ ngược chiều với các véc tơ  $\\,\\overrightarrow {v\\,} \\,$  và  $\\,\\overrightarrow {v_0\\,} \\,$ $\\newline$
+•	  Véc tơ gia tốc của chuyển động thẳng nhanh dần đều ngược chiều với véc tơ vận tốc.$$\\newline$$
+2. Vận tốc của chuyển động thẳng chậm dần đều. $\\newline$
+  a) Công thức tính vận tốc. $\\newline$
+$$v{\\rm{ }} = {\\rm{ }}{v_o} + {\\rm{ }}at$$
+•	  Trong đó a ngược dấu với v. $\\newline$
+  b) Đồ thị vận tốc – thời gian. $\\newline$
+</string>
+    <string name="c1_b3_p3">3. Đường đi và phương trình chuyển động của chuyển động thẳng chậm dần đều. $\\newline$
+  a) Công thức tính đường đi$\\newline$
+$$s{\\rm{ }} = {\\rm{ }}{v_o}t + \\frac{1}{2}a{t^2}$$
+•	  Trong đó a ngược dấu với vo. $\\newline$
+  b) Phương trình chuyển động$\\newline$
+$$x{\\rm{ }} = {\\rm{ }}{x_o} + {v_o}t + \\frac{1}{2}a{t^2}$$
+•	  Trong đó a ngược dấu với $v_o$.$$\\newline$$
+IV. Chuyển động thẳng đều$\\newline$
+1. Tốc độ trung bình. $\\newline$
+•	Biểu diễn chuyển động của chất điểm trên hệ trục toạ độ$\\newline$
+</string>
+    <string name="c1_b3_p4">•	Ta có: $\\newline$
+${v_{tb}} = \\frac{s}{t}$ $\\newline$
+  Với :  $$s{\\rm{ }} = {\\rm{ }}{x_2}-{\\rm{ }}{x_1};$$
+        $${\\rm{ }}t{\\rm{ }} = {\\rm{ }}{t_2}-{\\rm{ }}{t_1}$$
+2. Chuyển động thẳng đều. $\\newline$
+•	  Chuyển động thẳng đều là chuyển động có quỹ đạo là đường thẳng và có tốc độ trung bình như nhau trên mọi quãng đường. $$\\newline$$
+3. Quãng đường đi trong chuyển động thẳng đều. $\\newline$
+$$s = {\\rm{ }}{v_{tb}}.t = {\\rm{ }}vt$$
+  Trong chuyển động thẳng đều, quãng đường đi được s tỉ lệ thuận với thời gian chuyển động t. $$\\newline$$
+II. Phương trình chuyển động và đồ thị toạ độ – thời gian. $\\newline$
+1. Phương trình chuyển động. $\\newline$
+•	Để xác định chuyển động của một chất điểm chúng ta cần biết vị trí của chất điểm tại những thời điểm khác nhau. Phương trình này biểu diễn vị trí của chất điểm theo thời gian và gọi là phương trình chuyển động của chất điểm. $\\newline$
+ $$x{\\rm{ }} = {\\rm{ }}{x_o} + {\\rm{ }}s{\\rm{ }} = {\\rm{ }}{x_o} + {\\rm{ }}vt$$
+2. Đồ thị toạ độ – thời gian của chuyển động thẳng đều. $\\newline$
+•	Với ${x_o} = 5{\\rm{ }}km$ và $v = 10 km/h$ thì ta có: $\\newline$
+$x = 5 + 10t (km)$ (2.4) với t tính bằng giờ.$\\newline$
+a) Bảng
+•	Dựa vào phương trình $(2.4)$ để lập bảng $(x,t)$  $\\newline$
+
+b) Đồ thị$\\newline$
+</string>
+    <string name="c1_b3_p5">•	Đồ thị toạ độ – thời gian biểu diễn sự phụ thuộc của tọa độ của vật chuyển động vào thời gian$\\newline$</string>
+    <string name="c1_b4_p1">I. Sự rơi trong không khí và sự rơi tự do. $\\newline$
+1. Sự rơi của các vật trong không khí. $\\newline$
+a. Thí nghiệm$\\newline$
+•	Để xét xem trong không khí vật nặng có luôn rơi nhanh hơn vật nhẹ không, ta đồng thời thả nhẹ hai vật rơi xuống từ cùng một độ cao, rồi quan sát xem vật nào rơi xuống đất trước. $\\newline$
+o	TN1: Thả 1 hòn sỏi và 1 tờ giấy (nặng hơn tờ giấy). $\\newline$
+o	TN2: Như TN 1 nhưng tờ giấy vo tròn và nén chặt lại. $\\newline$
+o	TN3: Thả 2 tờ giấy cùng kích thước, nhưng 1 tờ để phẳng, 1 tờ vo tròn lại. $\\newline$
+o	TN4: Thả hòn sỏi nhỏ và 1 tấm bìa phẳng đặt nằm ngang (nặng hơn hòn sỏi). $\\newline$
+b. Kết quả$\\newline$
+•	TN1: Vật nặng rơi nhanh hơn vật nhẹ. $\\newline$
+•	TN2: Hai vật nặng nhẹ khác nhau lại rơi nhanh như nhau. $\\newline$
+•	TN3: Hai vật nặng như nhau rơi nhanh chậm khác nhau. $\\newline$
+•	TN4: Vật nhẹ rơi nhanh hơn vật nặng. $\\newline$
+c. Kết luận$\\newline$
+•	Trong không khí không phải các vật nặng nhẹ khác nhau thì rơi nhanh chậm khác nhau. $\\newline$
+•	Yếu tố quyết định đến sự rơi nhanh chậm của các vật trong không khí là lực cản không khí lên vật và trọng lực tác dụng lên vật. $$\\newline$$
+2. Sự rơi của các vật trong chân không (sự rơi tự do). $\\newline$
+•	Nếu loại bỏ được ảnh hưởng của không khí thì mọi vật sẽ rơi nhanh như nhau. Sự rơi của các vật trong trường hợp này gọi là sự rơi tự do. $\\newline$
+•	Định nghĩa : $\\newline$
+o	Sự rơi tự do là sự rơi chỉ dưới tác dụng của trọng lực. $$\\newline$$
+II. Nghiên cứu sự rơi tự do của các vật. $\\newline$
+1. Những đặc điểm của chuyển động rơi tự do. $\\newline$
+•	Phương của chuyển động rơi tự do là phương thẳng đứng (phương của dây dọi). $\\newline$
+•	Chiều của chuyển động rơi tự do là chiều từ trên xuống dưới. $\\newline$
+•	Chuyển động rơi tự do là chuyển động thẳng nhanh dần đều. $$\\newline$$
+2. Các công thức của chuyển động rơi tự do. $\\newline$
+a. Công thức tính vận tốc$\\newline$
+•	Lấy gốc là vị trí bắt đầu thả vật rơi, không có vận tốc đầu, chiều dương hướng xuống, t là thời gian rơi. Công thức tính vận tốc của sự rơi tự do là: $\\newline$
+$v = g.t$ $\\newline$
+
+•	Trong đó, g là gia tốc rơi tự do. $\\newline$
+•	Chú ý: Khi $s = h$ độ cao từ mặt đất đến vị trí thả vật thì v chính là vận tốc vật khi chạm đất. $\\newline$
+b. Công thức tính quãng đường đi được của sự rơi tự do$\\newline$
+$$S = \\frac{1}{2}g{t^2};{v^2} = 2gS$$
+3. Gia tốc rơi tự do. $\\newline$
+•	Tại một nơi trên nhất định trên Trái Đất và ở gần mặt đất, các vật đều rơi tự do với cùng một gia tốc g. $\\newline$
+•	Ở những nơi khác nhau, gia tốc rơi tự do sẽ khác nhau : $\\newline$
+o	Ở địa cực g lớn nhất : $g{\\rm{ }} = {\\rm{ }}9,8324m/{s^2}$ . $\\newline$
+o	Ở xích đạo g nhỏ nhất : $g{\\rm{ }} = {\\rm{ }}9,7872m/{s^2}$ $\\newline$
+o	Nếu không đòi hỏi độ chính xác cao, ta có thể lấy $g{\\rm{ }} = {\\rm{ }}9,8m/{s^2}$ hoặc $g{\\rm{ }} = {\\rm{ }}10m/{s^2}$ $\\newline$
+</string>
+    <string name="c1_b5_p1">I. Định nghĩa. $\\newline$
+1. Chuyển động tròn. $\\newline$
+•	Chuyển động tròn là chuyển động có quỹ đạo là một đường tròn. $\\newline$
+•	Ví dụ: Các điểm trên ghế đu quay$\\newline$
+</string>
+    <string name="c1_b5_p2">2. Tốc độ trung bình trong chuyển động tròn. $\\newline$
+•	  Tốc độ trung bình của chuyển động tròn là đại lượng đo bằng thương số giữa độ dài cung tròn mà vật đi được và thời gian đi hết cung tròn đó. $\\newline$
+$${v_{tb}} = \\frac{{\\Delta s}}{{\\Delta t}}$$
+3. Chuyển động tròn đều. $\\newline$
+•	  Chuyển động tròn đều là chuyển động có quỹ đạo tròn và có tốc độ trung bình trên mọi cung tròn là như nhau. $$\\newline$$
+II. Tốc độ dài và tốc độ góc.
+1. Tốc độ dài:
+$$v = \\frac{{\\Delta s}}{{\\Delta t}}$$
+•	Trong chuyển động tròn đều tốc độ dài của vật có độ lớn không đổi. $$\\newline$$
+2. Véc tơ vận tốc trong chuyển động tròn đều: $\\newline$
+$$\\vec v = \\frac{{\\vec s}}{{\\Delta t}}$$
+•	Véctơ vận tốc trong chuyển động tròn đều luôn có phương tiếp tuyến với đường tròn quỹ đạo. $\\newline$
+•	Trong chuyển động tròn đều véctơ vận tốc có phương luôn luôn thay đổi. $$\\newline$$
+3. Tần số góc, chu kì, tần số. $\\newline$
+  a) Tốc độ góc. $\\newline$
+•	Tốc độ góc của chuyển động tròn đều là đại lượng đo bằng góc mà bán kính quay quét được trong một đơn vị thời gian: $\\newline$
+$$\\omega  = \\frac{{\\Delta \\alpha }}{{\\Delta t}}$$
+•	Tốc độ góc của chuyển động tròn đều là một đại lượng không đổi. $\\newline$
+•	Đơn vị tốc độ góc là rad/s. $\\newline$
+  b) Chu kì. $\\newline$
+•	  Chu kì T của chuyển động tròn đều là thời gian để vật đi được một vòng. $\\newline$  Liên hệ giữa tốc độ góc và chu kì: $\\newline$
+$$T = \\frac{{2\\pi }}{\\omega }$$
+•	Đơn vị chu kì là giây (s). $\\newline$
+  c) Tần số. $\\newline$
+•	Tần số f của chuyển động tròn đều là số vòng mà vật đi được trong 1 giây. $\\newline$
+•	Liên hệ giữa chu kì và tần số: $\\newline$
+$$f = \\frac{1}{T}$$
+•	Đơn vị tần số là vòng trên giây (vòng/s) hoặc héc (Hz). $\\newline$
+  d) Liên hệ giữa tốc độ dài và tốc độ góc: v =  $$\\newline$$
+III. Gia tốc hướng tâm. $\\newline$
+1. Hướng của véctơ gia tốc trong chuyển động tròn đều. $\\newline$
+•	Trong chuyển động tròn đều, tuy vận tốc có độ lớn không đổi, nhưng có hướng luôn thay đổi, nên chuyển động này có gia tốc. $\\newline$
+•	Gia tốc trong chuyển động tròn đều luôn hướng vào tâm của quỹ đạo nên gọi là gia tốc hướng tâm. $$\\newline$$
+2. Độ lớn của gia tốc hướng tâm.  $\\newline$
+$${a_{ht}} = \\frac{{{v^2}}}{r}$$
+</string>
+    <string name="c1_b6_p1">I. Tính tương đối của chuyển động. $\\newline$
+1. Tính tương đối của quỹ đạo. $\\newline$
+•	   Hình dạng quỹ đạo của chuyển động trong các hệ qui chiếu khác nhau thì khác nhau. Quỹ đạo có tính tương đối$$\\newline$$
+2. Tính tương đối của vận tốc. $\\newline$
+•	Vận tốc của vật chuyển động đối với các hệ qui chiếu khác nhau thì khác nhau. Vận tốc có tính tương đối$\\newline$
+•	Ví dụ: Một hành khách ngồi yên trong một toa tàu chuyển động với vận tốc 40 km/h. Đối với toa tàu thì vận tốc của người đó bằng 0. Đối với người đứng dưới đường thì người đó đang chuyển động với vận tốc 40 km/h $\\newline$
+    </string>
+    <string name="c1_b6_p2">II. Công thức cộng vận tốc. $\\newline$
+1. Hệ qui chiếu đứng yên và hệ qui chiếu chuyển động. $\\newline$
+•	   Hệ qui chiếu gắn với vật đứng yên gọi là hệ qui chiếu đứng yên. $\\newline$
+•	   Hệ qui chiếu gắn với vật vật chuyển động  gọi là hệ qui chiếu chuyển động. $$\\newline$$
+2. Công thức cộng vận tốc. $\\newline$
+•	Công thức cộng vận tốc: $\\overrightarrow {{v_{13}}}  = \\overrightarrow {{v_{12}}}  + \\overrightarrow {{v_{23}}} $ $\\newline$
+•	Nếu một vật (1) chuyển động với vận tốc $\\overrightarrow {{v_{12}}} $ trong hệ qui chiếu thứ nhất (2), hệ qui chiếu thứ nhất lại chuyển động với vận tốc  $\\overrightarrow {{v_{23}}} $ trong hệ qui chiếu thứ hai (3) thì trong hệ qui chiếu thứ hai vật chuyển động với vận tốc  $\\overrightarrow {{v_{13}}} $ được tính theo công thức :  $\\overrightarrow {{v_{13}}}  = \\overrightarrow {{v_{12}}}  + \\overrightarrow {{v_{23}}} $ $\\newline$
+•	Trong đó: $\\newline$
+o	 $\\overrightarrow {{v_{13}}} $ vận tốc tuyệt đối ( vận tốc của vật đối với hệ quy chiếu đứng yên) $\\newline$
+o	 $\\overrightarrow {{v_{12}}} $ vận tốc tương đối ( vận tốc của vật đối với hệ quy chiếu chuyển động) $\\newline$
+o	 $\\overrightarrow {{v_{23}}} $ vận tốc kéo theo ( vận tốc của hệ quy chiếu chuyển động đối với hệ quy chiếu đứng yên) $\\newline$
+•	Trường hợp  $\\overrightarrow {{v_{12}}} $ cùng phương, cùng chiều  $\\overrightarrow {{v_{23}}} $ $\\newline$
+o	Về độ lớn: ${v_{13}} = {v_{12}} + {v_{23}}$ $\\newline$
+o	Về hướng:  $\\overrightarrow {{v_{13}}}$  cùng hướng với   $\\overrightarrow {{v_{12}}}$ và  $\\overrightarrow {{v_{23}}} $ $\\newline$
+•	Trường hợp   $\\overrightarrow {{v_{12}}}$ cùng phương, ngược chiều  $\\overrightarrow {{v_{23}}}$ $\\newline$
+o   Về độ lớn: $${v_{13}} = |{v_{12}} - {v_{23}}|$$ $\\newline$
+o   Về hướng:$\\newline$
+    o$\\overrightarrow {{v_{13}}} $ cùng hướng với  $\\overrightarrow {{v_{12}}} $ khi $\\overrightarrow{v_{12}} > \\overrightarrow{v_{23}}$ $\\newline$
+    o$\\overrightarrow {{v_{13}}} $  cùng hướng  $\\overrightarrow {{v_{23}}} $ với  khi $\\overrightarrow{v_{12}} &lt; \\overrightarrow{v_{23}}$ $\\newline$
+
+</string>
+    <string name="c1_b7_p1">I. Phép đo các đại lượng vật lí – Hệ đơn vị SI. $\\newline$
+1. Phép đo các đại lượng vật lí. $\\newline$
+•	Phép đo một đại lượng vật lí là phép so sánh nó với đại lượng cùng loại được qui ước làm đơn vị. $\\newline$
+•	Công cụ để so sánh gọi là dụng cụ đo. $\\newline$
+o	Đo trực tiếp : So sánh trực tiếp qua dụng cụ. $\\newline$
+o	Đo gián tiếp : Đo một số đại lượng trực tiếp rồi suy ra đại lượng cần đo thông qua công thức. $$\\newline$$
+2. Đơn vị đo. $\\newline$
+•	Hệ đơn vị đo thông dụng hiện nay là hệ SI. $\\newline$
+•	Hệ SI qui định 7 đơn vị cơ bản : $\\newline$
+o	Độ dài : mét (m) ; $\\newline$
+o	Thời gian : giây (s) ; $\\newline$
+o	Khối lượng : kilôgam (kg) ; $\\newline$
+o	Nhiệt độ : kenvin (K) ; $\\newline$
+o	Cưòng độ dòng điện : ampe (A) ; $\\newline$
+o	Cường độ sáng : canđêla (Cd) ; $\\newline$
+o	Lượng chất : mol (mol). $\\newline$
+</string>
+    <string name="c1_b7_p2">cxz</string>
+    <string name="c2_b1_p1" translatable="false">I. Lực. Cân bằng lực. $\\newline$
+•	Lực là đại lượng véc tơ đặc trưng cho tác dụng của vật này lên vật khác mà kết quả là gây ra gia tốc cho vật hoặc làm cho vật biến dạng. $\\newline$
+•	Các lực cân bằng là các lực khi tác dụng đồng thời vào một vật thì không gây ra gia tốc cho vật. $\\newline$
+•	Hai lực cân bằng là hai lực cùng tác dụng lên một vật, cùng giá, cùng độ lớn và ngược chiều. $\\newline$
+•	Đơn vị của lực là niutơn (N) $$\\newline$$
+II. Tổng hợp lực. $\\newline$
+1. Thí nghiệm. $\\newline$
+•	Thực hiện thí nghiệm theo hình 9.5: Vòng nhẫn O (coi như chất điểm) đứng yên dưới tác dụng của 3 lực ${\\overrightarrow F _1},\\overrightarrow {{F_2}} ,\\overrightarrow {{F_3}} $ ( có độ lớn bằng trọng lượng của 3 nhóm quả cân)
+</string>
+    <string name="c2_b1_p2" translatable="false">2. Định nghĩa. $\\newline$
+•	Tổng hợp lực là thay thế các lực tác dụng đồng thời vào cùng một vật bằng một lực có tác dụng giống hệt các lực ấy. $\\newline$
+•	Lực thay thế này gọi là hợp lực. $\\newline$
+•	Hợp lực có giá trị lớn nhất khi hai lực cùng phương cùng chiều và nhỏ nhất khi hai lực cùng phương ngược chiều. $\\newline$
+•	Hợp lực của hai lực đồng quy có giá trị lớn hơn hợp lực của hai lực cùng phương, ngượcchiều như lớn hơn hợp lực của hai lực cùng phương, cùng chiều. $$\\newline$$
+3. Qui tắc hình bình hành. $\\newline$
+•	Nếu hai lực đồng qui làm thành hai cạnh của một hình bình hành, thì đường chéo kể từ điểm đồng qui biểu diễn hợp lực của chúng. $\\newline$
+$$F = \\overrightarrow {{F_1}} {\\rm{ }} + \\overrightarrow {{F_2}} {\\rm{ }}$$
+III. Điều kiện cân bằng của chất điểm. $\\newline$
+•	Muốn cho một chất điểm đứng cân bằng thì hợp lực của các lực tác dụng lên nó phải bằng không$\\newline$
+$$F = \\overrightarrow {{F_1}} + \\overrightarrow {{F_2}} + … + \\overrightarrow {{F_n}} = 0$$
+IV. Phân tích lực. $\\newline$
+1. Định nghĩa. $\\newline$
+•	Phân tích lực là thay thế một lực bằng hai hay nhiều lực có tác dụng giống hệt như lực đó. $\\newline$
+•	Các lực thay thế gọi là các lực thành phần. $$\\newline$$
+2. Phân tích một lực thành hai lực thành phần trên hai phương cho trước
+</string>
+    <string name="c2_b1_p3" translatable="false">3.Chú ý. $\\newline$
+•	Khi phân tích lực phải xác định được lực có tác dụng theo hai phương nào rồi chỉ phân tích theo hai phương ấy.
+</string>
+    <string name="c2_b2_p1" translatable="false">
+•	Ông dùng hai máng nghiêng giống như máng nước rất trơn rồi thả một hòn bi cho lăn xuống theo máng nghiêng 1. Hòn bi lăn ngược lên máng 2 đến một độ cao gần bằn độ cao ban đầu. Khi hạ thấp độ nghiêng của máng 2, hòn bi lăn trên máng 2 được một đoạn đường dài hơn.$\\newline$
+•	Ông cho rằng hòn bi không lăn được đến độ cao ban đầu là vì có ma sát. Ông tiên đoán nếu không có ma sát và nếu hai máng nằm ngang thì hòn bi sẽ lăn với vận tốc không đổi mãi mãi. $\\newline$
+b. Nhận xét : $\\newline$
+•	Nếu không có lực cản (Fms) thì không cần đến lực để duy trì chuyển động của một vật. $$\\newline$$
+2. Định luật I Newton. $\\newline$
+•	Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không. Thì vật đang đứng yên sẽ tiếp tục đứng yên, đang chuyển động sẽ tiếp tục chuyển động thẳng đều. $$\\newline$$
+3. Quán tính. $\\newline$
+•	Quán tính là tính chất của mọi vật có xu hướng bảo toàn vận tốc của về hướng và độ lớn. $\\newline$
+•	Chuyển động thẳng đều được gọi là chuyển động theo quán tính. $\\newline$
+•	Biểu hiện của quán tính: $\\newline$
+o	Xu hướng giữ nguyên trạng thái chuyển động thẳng đều. $\\newline$
+o	Xu hướng giữ nguyên trạng thái đứng yên. $$\\newline$$
+Định luật II Newton$\\newline$
+1. Định luật . $\\newline$
+•	Gia tốc của một vật cùng hướng với lực tác dụng lên vật. $\\newline$
+•	Độ lớn của gia tốc tỉ lệ với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật
+$\\overrightarrow a  = \\frac{{\\overrightarrow F }}{m}$  hay   $\\overrightarrow F  = m\\overrightarrow a $ $\\newline$
+•	Trong trường hợp vật chịu nhiều lực tác dụng  $\\overrightarrow {{F_1}} ,\\,\\overrightarrow {{F_2}} ,…,\\overrightarrow {{F_n}} $ thì $\\overrightarrow F $ là hợp lực của các lực đó :
+$$\\overrightarrow F  = \\overrightarrow {{F_1}}  + \\overrightarrow {{F_2}}  + … + \\overrightarrow {{F_n}} $$
+2. Khối lượng và mức quán tính. $\\newline$
+  a) Định nghĩa. $\\newline$
+•	  Khối lượng là đại lượng đặc trưng cho mức quán tính của vật. $\\newline$
+  b) Tính chất của khối lượng. $\\newline$
+•	Khối lượng là một đại lượng vô hướng, dương và không đổi đối với mỗi vật. $\\newline$
+•	Khối lượng có tính chất cộng. $$\\newline$$
+3. Trọng lực. Trọng lượng. $\\newline$
+  a) Trọng lực. $\\newline$
+•	Trọng lực là lực của Trái Đất tác dụng vào vật, gây ra cho chúng gia tốc rơi tự do. $\\newline$
+•	Trọng lực được kí hiệu là $\\overrightarrow P $. Trọng lực tác dụng lên vật đặt tại trọng tâm của vật. $\\newline$
+  b) Trọng lượng. $\\newline$
+•	Độ lớn của trọng lực tác dụng lên một vật gọi là trọng lượng của vật, kí hiệu là P. $\\newline$
+•	Trọng lượng của vật được đo bằng lực kế. $\\newline$
+  c) Công thức của trọng lực:
+$$\\overrightarrow P  = m\\overrightarrow g $$
+Định luật III Newton$\\newline$
+1. Sự tương tác giữa các vật.</string>
+    <string name="c2_b2_p3" translatable="false">•	Đặc điểm của lực và phản lực : $\\newline$
+o	Lực và phản lực luôn luôn xuất hiện (hoặc mất đi) đồng thời. $\\newline$
+o	Lực và phản lực có cùng giá, cùng độ lớn nhưng ngược chiều. Hai lực có đặc điểm như vậy gọi là hai lực trực đối. $\\newline$
+o	Lực và phản lực không cân bằng nhau vì chúng đặt vào hai vật khác nhau
+</string>
+    <string name="c2_b3_p1" translatable="false">I. Lực hấp dẫn. $\\newline$
+•	 Mọi vật trong vũ trụ đều hút nhau với một lực, gọi là lực hấp dẫn. $\\newline$
+•	 Lực hấp dẫn giữa Mặt Trời và các hành tinh giữ cho các hành tinh chuyển động quanh Mặt Trời. $\\newline$
+•	 Lực hấp dẫn là lực tác dụng từ xa, qua khoảng không gian giữa các vật
+</string>
+    <string name="c2_b3_p2" translatable="false">II. Định luật vạn vật hấp dẫn. $\\newline$
+1. Định luật :
+</string>
+    <string name="c2_b3_p3" translatable="false">•	 Lực hấp dẫn giữa hai chất điểm bất kì tỉ lệ thuận với tích hai khối lượng của chúng và tỉ lệ nghịch với bình phương khoảng cách giữa chúng. $$\\newline$$
+2. Hệ thức $\\newline$
+$${F_{hd}} = G\\frac{{{m_1}.{m_2}}}{{{r^2}}}  (1)$$
+G = 6,67Nm/kg2 là hằng số hấp dẫn. $\\newline$
+•	Hệ thức (1) áp dụng được cho các vật thông thường trong hai trường hợp: $\\newline$
+o	Khoảng cách giữa hai vật rất lớn so với kích thước của chúng. $\\newline$
+o	Các vật đồng chất và có dạng hình cầu. Khi ấy r là khoảng cách giữa hai tâm và lực hấp dẫn nằm trên đường nối tâm.$$\\newline$$
+3. Trọng lực là trường hợp riêng của lực hấp dẫn. $\\newline$
+•	Trọng lực tác dụng lên một vật là lực hấp dẫn giữa Trái Đất và vật đó. $\\newline$
+•	Trọng lực đặt vào một điểm đặc biệt của vật, gọi là trọng tâm của vật. $\\newline$
+•	Độ lớn của trọng lực$\\newline$
+$$P = G\\frac{{m.M}}{{{{\\left( {R + h} \\right)}^2}}}$$
+•	Gia tốc rơi tự do : $g = \\frac{{GM}}{{{{\left( {R + h} \\right)}^2}}}$
+•	Nếu ở gần mặt đất (h &lt;&lt; R) : $\\newline$
+$$P = G\\frac{{m.M}}{{{R^2}}}\) , g = \\frac{{GM}}{{{R^2}}}$$
+•	Từ các công thức trên cho thấy, gia tốc rơi tự do phụ thuộc độ cao nếu độ cao h khá lớn và là như nhau đối với các vật ở gần mặt đất (h &lt;&lt; R). Các hệ quả này hoàn toàn phù hợp với thực nghiệm và là một bằng chứng về sự đúng đắn của định luật vạn vật hấp dẫn. </string>
+    <string name="c2_b4_p1" translatable="false">I. Hướng và điểm đặt của lực đàn hồi của lò xo$\\newline$
+•	Lực đàn hồi xuất hiện ở 2 đầu của lò xo và tác dụng vào các vật tiếp xúc với lò xo, làm nó biến dạng$\\newline$
+•	Hướng của lực đàn hồi ở mỗi đầu của lò xo ngược với hướng của ngoại lực gây biến dạng$\\newline$
+•	Ví dụ: Hình 12.1 SGK
+</string>
+    <string name="c2_b4_p2" translatable="false">II. Độ cứng lực đàn hồi của lò xo. $$\\newline$$
+1. Thí nghiệm.
+</string>
+    <string name="c2_b4_p3" translatable="false">•	Treo quả cân có trọng lượng P vào lò xo thì lò xo giãn ra. Ở vị trí cân bằng ta có :
+$$F = P = mg$$
+•	Treo tiếp 1, 2 quả cân vào lò xo. Ở mỗi lần, ta chiều dài l của lò xo khi có tải rồi tính độ giãn $$\\Delta l{\\rm{ }} = l - {l_0}$$
+•	Ta có kết quả :
+</string>
+    <string name="c2_b4_p4" translatable="false">2. Giới hạn đàn hồi của lò xo. $\\newline$
+•	Mỗi lò xo hay mỗi vật đàn hồi có một giới hạn đàn hồi nhất định. $$\\newline$$
+3. Định luật Húc (Hookes). $\\newline$
+•	Trong giới hạn đàn hồi, độ lớn của lực đàn hồi của lò xo tỉ lệ thuận với độ biến dạng của lò xo.
+$${F_{dh}} = {\\rm{ }}k.|\\Delta l|$$
+ k gọi là độ cứng (hay hệ số đàn hồi) của lò xo, có đơn vị là N/m. $\\newline$
+•	Khi quả cân đứng yên: ${F_{dh}} = P = mg$
+⇒ k = $\\frac{{mg}}{{\\Delta l}}$(N/m) $$\\newline$$
+4. Chú ý. $\\newline$
+•	Đối với dây cao su hay dây thép, lực đàn hồi chỉ xuất hiện khi bị ngoại lực kéo dãn. Vì thế lực đàn hồi trong trường hợp này gọi là lực căng. $\\newline$
+•	Đối với mặt tiếp xúc bị biến dạn khi bị ép vào nhau thì lực đàn hồi có phương vuông góc với mặt tiếp xúc.
+</string>
+    <string name="c2_b5_p1" translatable="false">I. Lực ma sát trượt. $\\newline$
+1. Đo độ lớn của ma sát trượt:
+</string>
+    <string name="c2_b5_p2" translatable="false">•	Móc lực kế vào vật rồi kéo theo phương ngang cho vật trượt gần như thẳng đều.$\\newline$
+•	Khi đó, lực kế chỉ độ lớn của lực ma sát trượt tác dụng vào vật. $$\\newline$$
+2. Độ lớn của lực ma sát trượt$\\newline$
+•	Không phụ thuộc vào diện tích tiếp xúc và tốc độ của vật. $\\newline$
+•	Tỉ lệ với độ lớn của áp lực. $\\newline$
+•	Phụ thuộc vào vật liệu và tình trạng của 2 mặt tiếp xúc. $$\\newline$$
+3. Hệ số ma sát trượt$\\newline$
+•	Hệ số tỉ lệ giữa độ lớn của lực ma sát trượt và độ lớn của áp lực gọi là hệ số ma sát trượt.$\\newline$
+•	Kí hiệu: ${\\mu _t} = \\frac{{{F_{mst}}}}{N}$
+•	Hệ số ma sát trượt ${\mu _t}\$ phụ thuộc vào vật liệu và tình trạng của hai mặt tiếp xúc. $\\newline$
+4.Công thức của lực ma sát trượt. $\\newline$
+$${F_{mst}} = {\\mu _t}.N$$
+II.Lực ma sát lăn. $\\newline$
+•	 Lực ma sát lăn xuất hiện khi một vật lăn trên một vật khác, để cản lại chuyển động lăn của vật. $\\newline$
+•	 Lực ma sát lăn rất nhỏ so với lực ma sát trượt. $$\\newline$$
+III.Lực ma sát nghỉ. $\\newline$
+1.Thế nào là lực ma sát nghỉ. $\\newline$
+•	 Khi tác dụng vào vật một lực song song với mặt tiếp xúc nhưng vật chưa chuyển động thì mặt tiếp xúc đã tác dụng vào vật một lực ma sát nghỉ cân bằng với ngoại lực. $$\\newline$$
+2.Những đặc điểm của lực ma sát nghỉ. $\\newline$
+•	Lực ma sát nghỉ có hướng ngược với hướng của lực tác dụng song song với mặt tiếp xúc, có độ lớn bằng độ lớn của lực tác dụng, khi vật còn chưa chuyển động. $\\newline$
+•	Ma sát nghỉ có một giá trị cực đại đúng bằng ngoại lực tác dụng song song với mặt tiếp xúc khi vật bắt đầu trượt. $\\newline$
+•	Khi vật trượt, lực ma sát trượt nhỏ hơn ma sát nghỉ cực đại. $$\\newline$$
+3.Vai trò của lực ma sát nghỉ. $\\newline$
+•	 Nhờ có ma sát nghỉ ta mới cầm nắm được các vật trên tay, đinh mới được giữ lại ở tường, sợi mới kết được thành vải. $\\newline$
+•	 Nhờ có ma sát nghỉ mà dây cua roa chuyển động, băng chuyền chuyển được các vật từ nơi này đến nơi khác. $\\newline$
+•	 Đối với người, động vật, xe cộ, lực ma sát nghỉ đóng vai trò lực phát động.
+</string>
+    <string name="c2_b6_p1" translatable="false">I.Lực hướng tâm. $\\newline$
+1.Định nghĩa. $\\newline$
+•	 Lực (hay hợp lực của các lực) tác dụng vào một vật chuyển động tròn đều và gây ra cho vật gia tốc hướng tâm gọi là lực hướng tâm. $$\\newline$$
+2.Công thức. $\\newline$
+$${F_{ht}} = m{a_{ht}} = \\frac{{m{v^2}}}{r}=m{\\omega ^2}r$$
+3.Ví dụ. $\\newline$
+•	Lực hấp dẫn giữa Trái Đất và vệ tinh nhân tạo đóng vai trò lực hướng tâm, giữ cho vệ tinh nhân tạo chuyển động tròn đều quanh Trái Đất.
+</string>
+    <string name="c2_b6_p2" translatable="false">•	Đặt một vật trên bàn quay, lực ma sát nghĩ đóng vai trò lực hướng tâm giữ cho vật chuyển động tròn.</string>
+    <string name="c2_b6_p3" translatable="false">•	Đường ôtô và đường sắt ở những đoạn cong phải làm nghiên về phía tâm cong để hợp lực giữa trọng lực và phản lực của mặt đường tạo ra lực hướng tâm giữ cho xe, tàu chuyển động dễ dàng trên quỹ đạo. </string>
+    <string name="c2_b6_p4" translatable="false">4. Kết luận: $\\newline$
+•	Lực hướng tâm không phải là loại lực mới, mà chỉ là một trong các lực: hấp dẫn, đàn hồi, ma sát hay hợp lực của các lực đó. Vì nó gây ra gia tốc hướng tâm nên gọi là lực hướng tâm. $$\\newline$$
+II.Chuyển động li tâm. $\\newline$
+1.Khi đặt vật trên bàn quay, nếu bàn quay nhanh quá, lực ma sát nghĩ  không đủ lớn để đóng vai trò lực hướng tâm nữa, nên vật trượt trên bàn ra xa tâm quay, rồi văng khỏi bàn theo phương tiếp tuyến với quỹ đạo. Chuyển động như vậy của vật được gọi là chuyển động li tâm. $$\\newline$$
+2.Chuyển động li tâm có nhiều ứng dụng thực tế. $\\newline$
+•	Ví dụ : Máy vắt li tâm. $$\\newline$$
+3.Chuyển động li tâm cũng có khi cần phải tránh. $\\newline$
+•	Ví dụ : Khi chạy xe qua những chổ rẽ, chổ quanh, nếu chạy với tốc độ lớn thì lực ma sát nghĩ cực đại không đủ lớn để đóng vai trò lực hướng tâm giữ cho xe chuyển động tròn nên xe sẽ trượt li tâm, dễ gây ra tai nạn giao thông
+</string>
+    <string name="c2_b7_p1" translatable="false">I.Khảo sát chuyển động ném ngang. $\\newline$
+1.Chọn hệ trục toạ độ và gốc thời gian$\\newline$
+•	 Chọn hệ trục toạ độ Đề-các xOy, trục Ox hướng theo véc tơ vận tốc $\\mathop {{v_o}}\\limits^ \\to $, trục Oy hướng theo véc tơ trọng lực\mathop P\limits^ \to \$
+•	 Chọn gốc thời gian lúc bắt đầu ném$$\\newline$$
+2.Phân tích chuyển động ném ngang$\\newline$
+ Chuyển động của các hình chiếu Mx và My trên các trục Ox và Oy gọi là các chuyển động thành phần của vật M.
+</string>
+    <string name="c2_b7_p2" translatable="false">•	Thành phần theo trục Ox: $\\newline$
+$${a_x} = 0;{v_x} = {v_o};x = {v_o}t\\left( 1 \\right)$$ (1)
+•	Thành phần theo trục Oy: $\\newline$
+$${a_y} = g;{v_y} = gt;y = g{t^2}\\left( 2 \\right)$$(2)
+IIXác định chuyển động ném ngang$\\newline$
+1.Dạng của quỹ đạo$\\newline$
+•	Từ (1), (2) suy ra phương trình quỹ đạo của vật : $\\newline$
+$$y = \\frac{g}{{2v_0^2}}{x^2}$$
+•	Quỹ đạo của vật là 1 nữa đường parapol.
+</string>
+    <string name="c2_b7_p3" translatable="false">2.Thời gian chuyển động. $\\newline$
+•	Thay y = h vào (2), ta được: $\\newline$
+$$t = \\sqrt {\\frac{{2h}}{g}} $$
+3.Tầm ném xa. $\\newline$
+•	Gọi L là tầm ném xa.$\\newline$
+$$L = {x_{max}} = {v_o}t = {v_o}\\sqrt {\\frac{{2h}}{g}} $$
+4.Tốc độ:$\\newline$
+$$v = \\sqrt {v_x^2 + v_y^2} = \\sqrt {v_o^2 + {{(gt)}^2}} $$
+III.Thí nghiệm kiểm chứng. $\\newline$
+•	Sau khi búa đập vào thanh thép, bi A chuyển động ném ngang còn bi B rơi tự do. $\\newline$
+•	Cả hai đều chạm đất cùng một lúc.
+</string>
+    <string name="c3_b1_p1">I/ Cân bằng của một vật chịu tác dụng của hai lực:$\\newline$
+1/ Thí nghiệm
+</string>
+    <string name="c3_b1_p2">•	Vật đứng yên nếu hai trọng lượng $P_{1}$ và $P_{2}$ bằng nhau và nếu hai dây buộc
+vật nằm trên một đường thẳng.
+</string>
+    <string name="c3_b1_p3">2/ Điều kiện cân bằng:</string>
+    <string name="c3_b1_p4">•	Muốn cho một vật chịu tác dụng của hai lực ở trạng thái cân bằng thì hai lực đó phải cùng giá, cùng độ lớn và ngược chiều.$\\newline$
+$$\\vec{F_{1}} = - \\vec{F_{2}} $$
+
+3/ Xác định trọng tâm của một vật phẳng, mỏng bằng thực nghiệm:$\\newline$
+•	Trọng tâm là điểm đặt của trọng lực. Vì vậy trọng tâm phải nằm trên đường kéo dài của dây treo.
+</string>
+    <string name="c3_b1_p5">•	Buộc dây lần lượt vào hai điểm khác nhau trên vật rồi lần lượt treo lên. Khi vật đứng yên, vẽ đường kéo dài của dây treo.$\\newline$
+•	Giao điểm của hai đường kéo dài này là trọng tâm của vật. Kí hiệu trọng tâm là G.$\\newline$
+•	Trọng tâm G của các vật phẳng, mỏng và có dạng hình học đối xứng nằm ở tâm đối xứng của vật.$$\\newline$$
+
+II/ Cân bằng của một vật chịu tác dụng của ba lực không song song:$\\newline$
+1/ Thí nghiệm:
+</string>
+    <string name="c3_b1_p6">•	Dùng hai lực kế treo một vật và để vật ở trạng thái đứng yên.$\\newline$
+•	Dùng dây dọi đi qua trọng tâm để cụ thể hóa giá của trọng lực.$\\newline$
+•	Nhận xét: Ba lực không song song tác dụng lên vật rắn cân bằng có giá đồng phẳng và đồng quy.$$\\newline$$
+
+2/ Qui tắc hợp lực hai lực có giá đồng qui:$\\newline$
+•	Muốn tổng hợp hai lực có giá đồng qui tác dụng lên một vật rắn, trước hết ta phải trượt hai vét tơ lực đó trên giá của chúng đến điểm đồng qui, rồi áp dụng qui tắc hình bình hành để tìm hợp lực.$$\\newline$$
+
+3/ Điều kiện cân bằng của một vật chịu tác dụng của ba lực không song song:$\\newline$
+•	Muốn cho một vật chịu tác dụng của ba lực không song song ở trạng thái cân bằng thì:$\\newline$
+•	Ba lực đó phải đồng phẳng và đồng qui.$\\newline$
+•	Hợp lực của hai lực phải cân bằng với lực thứ ba.$\\newline$
+$$\\vec{F_{1}} + \\vec{F_{2}} = - \\vec{F_{3}} $$
+•	Ví dụ: quả cầu được treo tựa vào tường
+</string>
+    <string name="c3_b2_p1">I. Cân bằng của một vật có trục quay cố định. Mômen lực:$\\newline$
+1. Thí nghiệm:
+</string>
+    <string name="c3_b2_p2">- Nếu không có lực $\\vec{F_{2}}$ thì lực $\\vec{F_{1}}$ làm cho đĩa quay theo chiều kim đồng hồ.$\\newline$
+- Ngược lại nếu không có lực $\\vec{F_{1}}$ thì lực $\\vec{F_{2}}$ làm cho đĩa quay ngược chiều kim đồng hồ. Đĩa đứng yên vì tác dụng làm quay của lực $\\vec{F_{2}}$ cân bằng với tác dụng làm quay của lực $\\vec{F_{2}}$.$\\newline$
+
+2. Mômen lực:$\\newline$
+- Mômen lực đối với một trục quay là đại lượng đặc trưng cho tác dụng làm quay của lực và được đo bằng tích của lực với cánh tay đòn của nó.$\\newline$
+$$M = F.d(N/m)$$
+- Với:$\\newline$
+	M: momen của lực.$\\newline$
+	d: cánh tay đòn của lực là khoảng cách từ trục quay đến giá của lực.$\\newline$
+	Đơn vị momen lực: N.m$$\\newline$$
+
+II. Điều kiện cân bằng của một vật có trục quay cố định:$\\newline$
+1. Quy tắc:$\\newline$
+- Muốn cho một vật có trục quay cố định ở trạng thái cân bằng, thì tổng các mômen lực có xu hướng làm vật quay theo chiều kim đồng hồ phải bằng tổng các mômen lực có xu hướng làm vật quay theo chiều ngược lại.$\\newline$
+$$M_{1} = M_{2}$$
+$$F_{1}.d_{1} = F_{2}.d_{2}$$
+
+2. Chú ý:$\\newline$
+- Qui tắc mômen còn được áp dụng cho cả trường hợp một vật không có trục quay cố định nếu như trong một tình huống cụ thể nào đó ở vật xuất hiện trục quay.
+
+</string>
+    <string name="c3_b3_p1">I. Thí nghiệm:$\\newline$
+1. Thí nghiệm 1:
+</string>
+    <string name="c3_b3_p2">- Treo hai chùm quả cân có trọng lượng $P_{1}$ và $P_{2}$ khác nhau vào hai phía của thước, thay đổi khoảng cách từ hai điểm treo $O_{1}$, $O_{2}$ đến O để cho thước nằm ngang. $\\newline$
+- Vì tác dụng làm quay của lực $P_{1}$ cân bằng với tác dụng làm quay của lực $P_{2}\\newline$
+=> Lực kế chỉ giá trị: $F = P_{1} + P_{2}$ $$\\newline$$
+
+2. Thí nghiệm 2:
+</string>
+    <string name="c3_b3_p3">- Tháo hai chùm quả cân đem treo chung vào trọng tâm O của thước thì thấy thước vẫn nằm ngang và lực kế vẫn chỉ giá trị $F = P_{1} + P_{2}\\newline$
+- Vậy trọng lực $\\vec{P} = \\vec{P_{1}} + \\vec{P_{2}}$ đặt tại điểm O của thước là hợp lực của hai lực $\\vec{P_{1}}$ và $\\vec{P_{2}}$ đặt tại hai điểm $O_{1}$ và $O_{2}$.$\\newline$
+$$P = P_{1} + P_{2} hoặc \\frac{P_{1}}{P_{2}} = \\frac{OO_{1}}{OO_{2}} $$
+
+II. Qui tắc tổng hợp hai lực song song cùng chiều:$\\newline$
+1. Qui tắc:$\\newline$
+a. Hợp lực của hai lực song song cùng chiều là một lực song song, cùng chiều và có độ lớn bằng tổng các độ lớn của hai lực ấy.$\\newline$
+b. Hợp lực của hai lực song song cùng chiều là một lực song song, cùng chiều và có độ lớn bằng tổng các độ lớn của hai lực ấy.$\\newline$
+$$F = F_{1} + F_{2}; \\frac{F_{1}}{F_{2}} = \\frac{d_{2}}{d_{1}}(chia trong) $$
+
+2. Chú ý: $\\newline$
+a. Qui tắc tổng hợp hai lực song song cùng chiều giúp ta hiểu thêm về trọng tâm của vật.$\\newline$
+- Đối với những vật đồng chất và có dạng hình học đối xứng thì trọng tâm nằm ở tâm đối xứng của vật.
+</string>
+    <string name="c3_b3_p4">b. Có nhiều khi ta phải phân tích một lực $\\vec{F}$ thành hai lực $\\vec{F_{1}}$ và $\\vec{F_{2}}$ song song và cùng chiều với lực $\\vec{F}$ . Đây là phép làm ngược lại với tổng hợp lực $$\\newline$$
+
+3. Cân bằng của một vật chịu tác dụng của ba lực song song.
+</string>
+    <string name="c3_b3_p5">- Hệ ba lực song song cân bằng khi hợp lực của hai lực song song, cùng chiều phải cân bằng với lực thứ 3. Giá của lực thứ 3 phải chia trong khoảng cách giữa hai lực kia.</string>
+    <string name="c3_b4_p1">I. Các dạng cân bằng: $\\newline$
+- Xét sự cân bằng của các vật có một điểm tựa hay một trục quay cố định. $\\newline$
+- Vật sẽ ở trạng thái cân bằng khi trọng lực tác dụng lên vật có giá đi qua điểm tựa hoặc trục quay. $$\\newline$$
+1. Cân bằng không bền
+</string>
+    <string name="c3_b4_p2">- Là cân bằng mà khi vật bị kéo ra khỏi vị trí cân bằng một chút thì trọng lực có xu hướng kéo nó ra xa vị trí cân bằng đó. $$\\newline$$
+2. Cân bằng bền
+</string>
+    <string name="c3_b4_p3">- Là cân bằng mà khi vật bị kéo ra khỏi vị trí cân bằng một chút thì trọng lực có xu hướng kéo vật trở về vị trí cân bằng đó. $$\\newline$$
+
+3. Cân bằng phiếm định
+</string>
+    <string name="c3_b4_p4">- Là cân bằng mà khi vật bị kéo ra khỏi vị trí cân bằng một chút thì trọng lực có xu hướng giữ nó cân bằng ở vị trí mới $\\newline$
+- Nguyên nhân gây ra các dạng cân bằng khác nhau đó là vị trí trọng tâm của vật. $\\newline$
++ Trường hợp cân bằng không bền, trọng tâm ở vị trí cao nhất so với các vị trí lân cận.$\\newline$
++ Trường hợp cân bằng bền, trọng tâm ở vị trí thấp nhất so với các vị trí lân cận.$\\newline$
++ Trường hợp cân bằng phiếm định, trọng tâm không thay đổi hoặc ở một độ cao không đổi $$\\newline$$
+II. Cân bằng của một vật có mặt chân đế.$\\newline$
+1. Mặt chân đế.
+</string>
+    <string name="c3_b4_p5">- Khi vật tiếp xúc với mặt phẳng đở chúng bằng cả một mặt đáy thì mặt chân đế là mặt đáy của vật.$\\newline$
+- Khi vật tiếp xúc với mặt phẵng đở chỉ ở một số diện tích rời nhau thì mặt chân đế là hình đa giác lồi nhỏ nhất bao bọc tất cả các diện tích tiếp xúc đó. $$\\newline$$
+2. Điều kiện cân bằng.$\\newline$
+- Điều kiện cân bằng của một vật có mặt chân đế là giá của trọng lực phải xuyên qua mặt chân đế hay là trọng tâm rơi trên mặt chân đế $$\\newline$$
+
+3. Mức vững vàng của sự cân bằng.
+</string>
+    <string name="c3_b4_p6">- Mức vững vàng của cân bằng được xác định bởi độ cao của trọng tâm và diện tích của mặt chân đế. $\\newline$
+- Muốn tăng mức vững vàng của vật có mặt chân đế thì hạ thấp trọng tâm và tăng diện tích mặt chân đế của vật.$\\newline$
+- Cách ứng phó với các trận động đất nhỏ:$\\newline$
++ Ở trong phòng : tìm nắp dưới các bàn chắc chắn, tránh xa các các vật dễ đổ ngã như : tủ, tranh, kệ để đồ vật trên cao. Dùng đệm, túi sách che chắc đầu, gối lại.$\\newline$
++ Phải bình tỉnh, cẩn thận các mảnh vỡ, khi thoát hiểm nên dùng thang bộ...$\\newline$
++ Ở ngoài đường : tránh xa các tòa nhà lớn, các công trình đang thi công, tuân theo sự hướng dẫn của cảnh sát.$\\newline$
++ Nếu đang trên xe, tầu thì tuân theo sự chỉ dẫn của nhân viên
+</string>
+    <string name="c3_b5_p1">I. Chuyển động tịnh tiến của một vật rắn.$\\newline$
+1. Định nghĩa.$\\newline$
+- Chuyển động tịnh tiến của một vật rắn là chuyển động trong đó đường nối hai điểm bất kỳ của vật luôn luôn song song với chính nó.$\\newline$$\\newline$
+
+2. Gia tốc của vật chuyển động tịnh tiến.$\\newline$
+- Trong chuyển động tịnh tiến, tất cả các điểm của vật đều chuyển động như nhau. Nghĩa là đều có cùng một gia tốc.$\\newline$
+- Gia tốc của vật chuyển động tịnh tiến xác định theo định luật II Newton :$\\newline$
+$$\\vec{a} = \\frac{\vec{F}}{m} hay \\vec{F} = m\\vec{a} \\newline $$
+- Trong đó $\\vec{F} = \\vec{F_{1}} + \\vec{F_{2}} + ... + \\vec{F_{n}}$ là hợp lực của các lực tác dụng vào vật.$\\newline$
++ m: khối lượng (kg)$\\newline$
++ a: gia tốc ($m/s^{2}$) $$\\newline$$
+
+- Khi vật chuyển động tịnh tiến thẳng, ta nên chọn hệ trục toạ độ Đề-các có trục Ox cùng hướng với chuyển động và trục Oy vuông góc với với hướng chuyển động rồi chiếu phương trình véc tơ $\\vec{F} = m\\vec{a}$ lên hai trục toạ độ đó để có phương trình đại số.$\\newline$
+$$Ox: F_{1x} + F_{2x} + ... + F_{nx} = ma$$
+$$Oy: F_{1y} + F_{2y} + ... + F_{ny} = 0$$
+
+II. Chuyển động quay của vật rắn quanh một trục cố định.$\\newline$
+1. Đặc điểm của chuyển động quay. Tốc độ góc.$\\newline$
+- Đại lượng đặc trưng cho chuyển động quay của vật rắn là vận tốc góc ω (góc mà vật quay được trong một đơn vị thời gian).$\\newline$
+- Khi vật rắn quay quanh một trục cố định, thì mọi điểm của vật đều quay cùng với một tốc độ góc ω trong cùng một khoảng thời gian t.$\\newline$
++ Vật quay đều thì ω=const (hằng số).$\\newline$
++ Vật quay nhanh dần thì ω tăng dần.$\\newline$
++ Vật quay chậm dần thì ω giảm dần. $$\\newline$$
+
+2. Tác dụng của mômen lực đối với một vật quay quay quanh một trục.$\\newline$
+a. Thí nghiệm.
+</string>
+    <string name="c3_b5_p2">- Nếu $P_{1} = P_{2}$ thì khi thả tay ra hai vật và ròng rọc đứng yên.$\\newline$
+- Nếu $P_{1} \\perp P_{2}$ thì khi thả tay ra hai vật chuyển động nhanh dần, còn ròng rọc thì quay nhanh dần. $$\\newline$$
+
+b. Giải thích.$\\newline$
+- Vì hai vật có trọng lượng khác nhau nên hai nhánh dây tác dụng vào ròng rọc hai lực căng khác nhau nên tổng đại số của hai mômen lực tác dụng vào ròng rọc khác không làm cho ròng rọc quay nhanh dần. $$\\newline$$
+
+c. Kết luận.$\\newline$
+- Mômen lực tác dụng vào một vật quay quanh một trục cố định làm thay đổi tốc độ góc của vật. $$\\newline$$
+
+3. Mức quán tính trong chuyển động quay.$\\newline$
+- Mọi vật quay quanh một trục đều có mức quán tính. Mức quán tính của vật càng lớn thì vật càng khó thay đổi tốc độ góc và ngược lại.$\\newline$
+- Mức quán tính của một vật quay quanh một trục phụ thuộc vào khối lượng của vật và sự phân bố khối lượng đó đối với trục quay
+</string>
+    <string name="c3_b6_p1">I. Ngẫu lực là gì ?$\\newline$
+1. Định nghĩa.$\\newline$
+- Hệ hai lực song song, ngược chiều, có độ lớn bằng nhau và cùng tác dụng vào một vật gọi là ngẫu lực. $$\\newline$$
+
+2. Ví dụ.
+
+</string>
+    <string name="c3_b6_p2">- Dùng tay vặn vòi nước ta đã tác dụng vào vòi một ngẫu lực.$\\newline$
+- Khi ôtô sắp qua đoạn đường ngoặt, người lái xe tác dụng một ngẫu lực vào tay lái$$\\newline$$
+
+II. Tác dụng của ngẫu lực đối với một vật rắn.$\\newline$
+1. Trường hợp vật không có trục quay cố định.
+</string>
+    <string name="c3_b6_p3">- Dưới tác dụng của ngẫu lực vật sẽ quay quanh trục đi qua trọng tâm và vuông góc với mặt phẵng chứa ngẫu lực.$\\newline$
+- Xu hướng chuyển động li tâm của các phần của vật ở ngược phía đối với trọng tâm triệt tiêu nhau nên trọng tâm đứng yên. Trục quay đi qua trọng tâm không chịu lực tác dụng.$$\\newline$$
+
+2. Trường hợp vật có trục quay cố định.
+
+</string>
+    <string name="c3_b6_p4">- Dưới tác dụng của ngẫu lực vật sẽ quay quanh trục cố định đó. Nếu trục quay không đi qua trọng tâm thì trọng tâm sẽ chuyển động tròn xung quanh trục quay. Khi ấy vật có xu hướng chuyển động li tâm nên tác dụng lực vào trục quay.$\\newline$
+- Khi chế tạo các bộ phận quay của máy móc phải phải làm cho trục quay đi qua trọng tâm của nó.$$\\newline$$
+
+3. Mômen của ngẫu lực.$\\newline$
+- Đối cới các trục quay vuông góc với mặt phẵng chứa ngẫu lực thì mômen của ngẫu lực không phụ thuộc vào vị trí trục quay và luôn luôn có giá trị :$\\newline$
+$$M = F_{1}d_{1} + F_{2}d_{2} = F(d_{1} + d_{2}) = F.d $$
+
+- Trong đó F là độ lớn của mỗi lực, còn d khoảng cách giữa hai giá của ngẫu lực và được gọi là cánh tay đòn của ngẫu lực.
+</string>
+    <string name="c4_b1_p1">I. Động lượng.$\\newline$
+1. Xung lượng của lực.$\\newline$
+a) Ví dụ.$\\newline$
+</string>
+    <string name="c4_b1_p2">•	Cầu thủ đá mạnh vào quả bóng, quả bóng đang đứng yên sẽ bay đi. $\\newline$
+•	Hai hòn bi va chạm vào nhau, đổi hướng $\\newline$
+•	Như vậy : Lực có độ lớn đáng kể tác dụng lên một vật trong khoảng thời gian ngắn, có thể gây ra biến đổi đáng kể trạng thái chuyển động của vật. $\\newline$
+b) Xung lượng của lực. $\\newline$
+•	Khi một lực $\\mathop F\\limits^ \\to  $ tác dụng lên một vật trong khoảng thời gian $\\Delta t$ thì tích $\\mathop F\\limits^ \\to  $.$\\Delta t$ được định nghĩa là xung lượng của lực $\\mathop F\\limits^ \\to  $ trong khoảng thời gian Dt ấy. $\\newline$
+•	Ở định nghĩa này, ta giả thiết lực $\\Delta t$ không đổi trong thời gian ấy. $\\newline$
+•	Đơn vị của xung lượng của lực là N.s$$\\newline$$
+2. Động lượng. $\\newline$
+a) Tác dụng của xung lượng của lực. $\\newline$
+•	Giả sử lực $\\mathop F\\limits^ \\to  $ tác dụng vào vật có khối lượng m làm vật tốc vật biến thiên từ $\\overrightarrow {{V_1}} $ đến $\\overrightarrow {{V_2}} $ theo định luật II Niu Tơn $\\newline$
+•	Ta có:   $\\mathop a\\limits^ \\to   = \\frac{{\\mathop {{v_2}}\\limits^ \\to   - \\mathop {{v_1}}\\limits^ \\to  }}{{\\Delta t}}$ $\\newline$
+•	Theo định luật II Newton : $\\newline$
+$m\\mathop a\\limits^ \\to   = \\mathop F\\limits^ \\to  $  hay $m\\frac{{\\mathop {{v_2}}\\limits^ \\to   - \\mathop {{v_1}}\\limits^ \\to  }}{{\\Delta t}} = \\mathop F\\limits^ \\to  $ $\\newline$
+•	   $ \\to m\\mathop {{v_2}}\\limits^ \\to   - m\\mathop {{v_1}}\\limits^ \\to   = \\Delta t.\\mathop F\\limits^ \\to  $ $\\newline$
+•	Vậy xung lực của lực bằng độ biến thiên của tích $\\mathop P\\limits^ \\to   = m.\\mathop V\\limits^ \\to  $ $\\newline$
+b) Động lượng. $\\newline$
+•	Động lượng $\\mathop P\\limits^ \\to  $ của một vật là một véc tơ cùng hướng với vận tốc $\\mathop v\\limits^ \\to  $ và được xác định bởi công thức $\\mathop P\\limits^ \\to   = m.\\vec v$ $\\newline$
+•	Động lượng là đại lượng véctơ cùng phương và cùng chiều véctơ vận tốc. $\\newline$
+•	Đơn vị động lượng:  kg.m/s$\\newline$
+c) Mối liên hệ giữa động lượng và xung lượng của lực. $\\newline$
+•	Ta có : $$\\mathop {{P_2}}\\limits^ \\to   - \\mathop {{P_1}}\\limits^ \\to   = \\mathop F\\limits^ \\to  .\\Delta t$$
+ $$ \\to \\Delta \\mathop P\\limits^ \\to   = \\mathop F\\limits^ \\to  .\\Delta t$$
+•	Độ biến thiên động lượng của một vật trong khoảng thời gian nào đó bằng xung lượng của tổng các lực tác dụng lên vật trong khoảng thời gian đó. $\\newline$
+•	Phát biểu này được xem như là một cách diễn đạt của định luật II Newton. $\\newline$
+•	Ý nghĩa : Lực tác dụng đủ mạnh trong một khoảng thời gian thì có thể gây ra biến thiên động lượng của vật$$\\newline$$
+II. Định luật bảo toàn động lượng. $\\newline$
+1. Hệ cô lập (hệ kín). $\\newline$
+•	Một hệ nhiều vật được gọi là cô lập khi không có ngoại lực tác dụng lên hệ hoặc các ngoại  lực cân bằng nhau. $\\newline$
+•	Trong một hệ cô lập chỉ có nội lực tương tác giữa các vật. $\\newline$
+•	Ví dụ: Xét hai bi tương tác không ma sát trên mặt phẳng ngang. Trường hợp này hệ được xem là hệ cô lập$\\newline$
+</string>
+    <string name="c4_b1_p3">2. Định luật bảo toàn động lượng của hệ cô lập. $\\newline$
+•	Xét một hệ cô lập gồm hai vật theo định luật III Niutơn
+$$\\mathop {{F_1}}\\limits^ \\to   =  - \\mathop {{F_2}}\\limits^ \\to  $$
+•	Độ biến thiên động lượng: $\\newline$
+$$\\Delta \\overrightarrow {{p_1}}  = {\\overrightarrow F _1}\\Delta t$$
+$$\\Delta \\mathop {{\\rm{ }}{p_2}}\\limits_{}^ \\to   = \\mathop {{F_2}}\\limits^ \\to  \\Delta t$$
+•	Từ định luật III Niutơn: $\\Delta \\mathop {\\overrightarrow {{p_1}} }\\limits_{}^{}  =  - \\Delta \\mathop {\\overrightarrow {{p_2}} }\\limits_{}^{} $
+$$ \\Rightarrow \\Delta \\mathop {{p_1}}\\limits^ \\to   + \\Delta \\mathop {{p_2}}\\limits^ \\to   = 0$$
+$$ \\Rightarrow \\Delta \\mathop {{\\rm{ }}p}\\limits^ \\to   = \\Delta \\mathop {{p_1}}\\limits^ \\to   + \\Delta \\mathop {{p_2}}\\limits^ \\to   = 0$$
+•	Độ biến thiên động của hệ bằng không, nghĩa là động lượng của hệ không đổi
+$\\mathop {{p_1}}\\limits^ \\to   + \\mathop {{p_2}}\\limits^ \\to  $ không đổi$\\newline$
+•	Động lượng của một hệ cô lập là đại lượng được bảo toàn. $$\\newline$$
+3. Va chạm mềm. $\\newline$
+•	Xét một vật khối lượng ${m_1}$, chuyển động trên một mặt phẳng ngang với vân tốc $\\overrightarrow {{V_1}} $ đến va chạm vào một vật có khối lượng ${m_2}$ đang đứng yên. Sau va chạm hai vật nhấp làm một và cùng chuyển động với vận tốc $\\overrightarrow V $ $\\newline$
+•	Theo định luật bảo toàn động lượng ta có : $\\newline$
+${m_1}\\overrightarrow {{v_1}}  = ({m_1} + {m_2})\\overrightarrow v $ $\\newline$
+•	Suy ra   $\\mathop v\\limits^ \\to   = \\frac{{{m_1}{{\\mathop v\\limits^ \\to  }_1}}}{{{m_1} + {m_2}}}$ $\\newline$
+•	Va chạm của hai vật như vậy gọi là va chạm mềm. $$\\newline$$
+4. Chuyển động bằng phản lực. $\\newline$
+</string>
+    <string name="c4_b1_p4">•	Một quả tên lửa có khối lượng M chứa một khối khí khối lượng m. Khi phóng tên lửa khối khí m phụt ra phía sau với vận tốc $\\mathop v\\limits^ \\to  $ thì tên khối lượng M chuyển động với vận tốc $\\mathop V\\limits^ \\to  $ $\\newline$
+•	Theo định luật bảo toàn động lượng ta có : $\\newline$
+$$m\\mathop v\\limits^ \\to   + M\\mathop V\\limits^ \\to   = 0$  → $\\mathop V\\limits^ \\to   =  - \\frac{m}{M}\\mathop v\\limits^ \\to  $$
+
+</string>
+    <string name="c4_b2_p1">I. Công. $\\newline$
+1. Khái niệm về công. $\\newline$
+•	Một lực sinh công khi nó tác dụng lên một vật và điểm đặt của lực chuyển dời. $\\newline$
+•	Khi điểm đặt của lực $\\vec F$ chuyển dời một đoạn s theo hướng của lực thì công do lực sinh ra là : A = Fs$\\newline$
+2. Định nghĩa công trong trường hợp tổng quát. $\\newline$
+•	Nếu lực không đổi  $\\vec F$ tác dụng lên một vật và điểm đặt của lực đó chuyển dời một đoạn s theo hướng hợp với hướng của lực góc $\\alpha $ thì công của lực  $\\vec F$ được tính theo công thức : $\\newline$
+A = Fscos$\\alpha $ $\\newline$
+3. Đơn vị$\\newline$
+•	Ta có A = F.s$\\newline$
+•	Nếu F = 1N, s = 1m thì A =1 N.1m = 1 J$\\newline$
+•	Jun là công do lực có độ lớn 1N thực hiện khi điểm đặc của lực chuyển dời 1 m theo hướng của lực. $\\newline$
+4. Biện luận. $\\newline$
+•	Khi $\\alpha $ là góc nhọn $\\cos $.$\\alpha $ > 0, suy ra A > 0 ; khi đó A gọi là công phát động. $\\newline$
+</string>
+    <string name="c4_b2_p2">•	Khi $\\alpha $ = ${90^o}$ , $\\cos $.$\\alpha $ = 0, suy ra A = 0 ; khi đó phương của lực vuông góc phương chuyển dời, lực $\\vec F$ không sinh công. $\\newline$</string>
+    <string name="c4_b2_p3">•	Khi $\\alpha $ là góc tù thì  $\\cos $.$\\alpha $ &lt; 0, suy ra A &lt; 0 ; khi đó A gọi là công cản. $\\newline$</string>
+    <string name="c4_b2_p4">5. Chú ý. $\\newline$
+•	Các công thức tính công chỉ đúng khi điểm đặt của lực chuyển dời thẳng và lực không đổi trong quá trình chuyển động$\\newline$
+II. Công suất. $\\newline$
+1. Khái niệm công suất. $\\newline$
+•	Công suất là đại lượng đo bằng công sinh ra trong một đơn vị thời gian. $\\newline$
+$P = \\frac{A}{t}$ $\\newline$
+2. Đơn vị công suất. $\\newline$
+•	Ta có :  $P = \\frac{A}{t}$ $\\newline$
+•	Nếu A = 1J,  t = 1 s thì p = $\\frac{{1J}}{s} = 1$ oát  ( W ) $\\newline$
+•	Oát là công suất của một thiết bị thực hiện công bằng 1J trong thời gian 1s$\\newline$
+•	Đơn vị công suất là: oát (W) $\\newline$
+ 1 W.h = 3600 J$\\newline$
+ 1 kwh = 3600 kJ (gọi là 1 kí địên). $\\newline$
+•	Ngoài ra người ta còn dùng đơn vị mã lực: $\\newline$
+   1 CV (Pháp) = 736 W$\\newline$
+   1 HP (Anh) = 746 W$\\newline$
+3. Chú ý$\\newline$
+•	Khái niệm công suất cũng được mở rộng cho các nguồn phát năng lượng không phải dưới dạng sinh công cơ học. $\\newline$
+•	Công suất tiêu thụ của 1 thiết bị  tiêu thụ năng lượng là đại lượng đo bằng năng lương tiêu thụ trong 1 đơn vị thời gian. $\\newline$
+</string>
+    <string name="c4_b3_p1">I. Khái niệm động năng$\\newline$
+1. Năng lượng$\\newline$
+•	Mọi vật xung quanh chúng ta đều mang năng lượng. Khi tương tác với các vật khác thì giữa chúng có thể trao đổi năng lượng. $\\newline$
+•	Sự trao đổi năng lượng có thể diễn ra dưới những dạng khác nhau : Thực hiện công, tuyền nhiệt, phát ra các tia mang năng lượng, …$\\newline$
+2. Động năng$\\newline$
+•	Động năng là dạng năng lượng mà vật có được do nó đang chuyển động. $\\newline$
+•	Khi một vật có động năng thì vật đó có thể tác dụng lực lên vật khác và lực này thực hiện công. $\\newline$
+II. Công thức tính động năng$\\newline$
+1. Xét vật khối lượng m dưới tác dụng của một lực $\\overrightarrow F $ không đổi và vật chuyển động dọc theo giá của lực. $\\newline$
+•	Giả sử sau khi đi được quãng đường s vận tốc của vật biến thiên từ giá trị $\\overrightarrow {\\,{v_1}} $ đến giá trị $\\overrightarrow {\\,{v_2}} $ . $\\newline$
+•	Ta có : $a = \\frac{F}{m}$ (1) và   ${v_2}^2-{v_1}^2 = 2as$ (2). $\\newline$
+•	Từ (1) và (2) suy ra : $\\newline$
+$\\frac{1}{2}m{v_2}^2 - \\frac{1}{2}m{v_1}^2 = F.s = A$ $\\newline$
+2. Trường hợp vật bắt đầu từ trạng thái nghĩ (${v_1} = 0\\,$), dưới tác dụng của lực  $\\overrightarrow F $ , đạt tới trạng thái có vận tốc ${v_2} = v\\,$ thì ta có : $\\newline$
+$\\frac{1}{2}m{v^2} = A$ $\\newline$
+•	Đại lượng  $\\frac{1}{2}m{v^2}$ biểu thị năng lượng mà vật thu được trong quá trình sinh công của lực $\\overrightarrow F $ và được gọi là động năng của vật. $\\newline$
+•	Động năng của một vật khối lượng m đang chuyển động với vận tốc v là năng lượng mà vật đó có được do nó đang chuyển động và được xác định theo công thức: $\\newline$
+${W_d} = \\frac{1}{2}m{v^2}$ $\\newline$
+•	Đơn vị của động năng là Jun (J) $\\newline$
+III. Công của lực tác dụng và độ biến thiên động năng$\\newline$
+$A = \\frac{{mv_2^2}}{2} - \\frac{{mv_1^2}}{2}$ $\\newline$
+$\\frac{{mv_1^2}}{2}$ : động năng của vật ở vị trí 1$\\newline$
+$\\frac{{mv_2^2}}{2}$ : động năng của vật ở vị trí 2$\\newline$
+A : công của lực $\\vec F$ tác dụng vào vật làm vật di chuyển từ vị trí 1 đến vị trí 2. $\\newline$
+•	Công của ngoại lực tác dụng lên vật bằng độ biến thiên động năng của vật. $\\newline$
+•	Hệ quả : $\\newline$
+o	Khi ngoại lực tác dụng lên vật sinh công dương thì động năng tăng. Ngược lại khi ngoại lực tác dụng lên vật sinh công âm thì động năng giảm. $\\newline$
+
+</string>
+    <string name="c4_b4_p1">I. Thế năng trọng trường$\\newline$
+1. Trọng trường$\\newline$
+•	Xung quanh Trái Đất tồn tại một trọng trường. Biểu hiện của trọng trường là sự xuất hiện trọng lực tác dụng lên vật khối lượng m đặt tại một vị trí bất kì trong khoảng không gian có trọng trường. $\\newline$
+•	Trong một khoảng không gian không rộng nếu gia tốc trọng trường $\\overrightarrow g $ tại mọi điểm có phương song song, cùng chiều, cùng độ lớn thì ta nói trong khoảng không gian đó trọng trường là đều. $\\newline$
+</string>
+    <string name="c4_b5_p2">•	Công thức trọng lực:   $\\vec P = m\\vec g$ $\\newline$
+m: khối lượng của vật. $\\newline$
+$\\vec g$: gia tốc trọng trường$\\newline$
+2. Thế năng trọng trường$\\newline$
+a. Định nghĩa$\\newline$
+•	Thế năng trọng trường của một vật là dạng năng lượng tương tác giữa Trái Đất và vật; nó phụ thuộc vào vị trí của vật trong trọng trường$\\newline$
+b. Biểu thức thế năng của trọng trường$\\newline$
+•	Công của trọng lực :  $A = P.z = mgz$ $\\newline$
+•	Theo định nghĩa:   ${W_t} = A = mgz$ $\\newline$
+•	Khi một vật khối lượng m đặt ở độ cao z so với mặt đất (trong trọng trường của Trái Đất) thì thế năng trọng trường của vật được định nghĩa bằng công thức: $\\newline$
+${W_t} = mgz$ $\\newline$
+•	Chú ý: Khi tính thế năng ta phải chọn mốc thế năng để tính độ cao z, ta chọn chiều dương hướng lên. $\\newline$
+3. Liên hệ giữa độ biến thiên thế năng và công của trọng lực. $\\newline$
+•	Khi một vật chuyển động trong trọng trường từ vị trí M đến vị trí N thì công của trọng lực có giá trị bằng hiệu thế năng trọng trường tại M và tại N. $\\newline$
+•	Hệ quả : Trong quá trình chuyển động của một vật trong trọng trường : Khi vật giảm độ cao, thế năng của vật giảm thì trọng lực sinh công dương. Ngược lại khi vật tăng độ cao, thế năng của vật tăng thì trọng lực sinh công âm$\\newline$
+II. Thế năng đàn hồi$\\newline$
+1. Công của lực đàn hồi$\\newline$
+•	Khi một vật bị biến dạng thì nó có thể sinh công. Lúc đó vật có một dạng năng lượng gọi là thế năng đàn hồi. $\\newline$
+•	Xét một lò xo độ cứng k, có chiều dài ${l_o}$ một đầu gắn vào đầu gắn vào một vật có khối lượng m đầu kia gắn cố định. $\\newline$
+•	Khi chiều dài vật $l = {l_o} + \\Delta l$, lực đàn hồi tác dụng vào vật$\\newline$
+$\\left| {\\mathop F\\limits^ \\to  } \\right| =  - k\\left| {\\mathop {\\Delta l}\\limits^ \\to  } \\right|$ $\\newline$
+•	Chọn chiều dương là chiều tăng chiều dài: $\\newline$
+$\\mathop F\\limits^ \\to   =  - k\\mathop {\\Delta l}\\limits^ \\to  $ $\\newline$
+•	Công của lực đàn hồi đưa vật về vị trí lò xo không biến dạng: $\\newline$
+$A = \\frac{1}{2}K{\\left( {\\Delta l} \\right)^2}$ $\\newline$
+2. Thế năng đàn hồi$\\newline$
+•	Thế năng đàn hồi là dạng năng lượng của một vật chịu tác dụng của lực đàn hồi. $\\newline$
+•	Thế năng đàn hồi của một lò xo có độ cứng k ở trọng thái có biến dạng $\\Delta l$ là : $\\newline$
+${W_t} = \\frac{1}{2}k{\\left( {\\Delta l} \\right)^2}$ $\\newline$
+•	Lưu ý: Trong thế năng đàn hồi, ta cũng phải chọn mốc thế năng (khi không giãn) là vị trí mà từ đó ta tính được độ biến dạng của vật. $\\newline$
+</string>
+    <string name="c4_b5_p1">I. Cơ năng của vật chuyển động trong trọng trường. $\\newline$
+1. Định nghĩa. $\\newline$
+</string>
+    <string name="c4_b4_p2">•	Khi một vật chuyển động trong trọng trường thì tổng động năng và thế năng của vật được gọi là cơ năng của vật trong trọng trường (gọi tắt là cơ năng của vật). $\\newline$
+•	Cơ năng của vật kí hiệu ${\\rm{W}}$, theo định nghĩa ta có thể viết: $\\newline$
+     $W = {W_d} + {W_t}$ $\\newline$
+     $W = \\frac{1}{2}m{v^2} + mgz$      (1) $\\newline$
+2. Sự bảo toàn cơ năng của  vật chuyển động trong trọng trường$\\newline$
+•	Khi một vật chuyển động trong trọng trường chỉ chịu tác dụng của trọng lực thì cơ năng của vật là một đại lượng bảo toàn$\\newline$
+ $W = {W_d} + {W_t}$ = hằng số$\\newline$
+$\\frac{1}{2}m{v^2} + mgz$ = hằng số$\\newline$
+3. Hệ quả$\\newline$
+•	Trong quá trình chuyển động của một vật trong trọng trường : $\\newline$
+o	Nếu động năng giảm thì thế năng tăng và ngược lại (động năng và thế năng chuyển hoá lẫn nhau) $\\newline$
+o	Tại vị trí nào động năng cực đại thì thế năng cực tiểu và ngược lại. $\\newline$
+II. Cơ năng của vật chịu tác dụng của lực đàn hồi. $\\newline$
+1. Định nghĩa. $\\newline$
+•	Cơ năng của vật chuyển động dưới tác dụng của lực đàn hồi bằng tổng động năng và thế năng đàn hồi của vật : $\\newline$
+${\\rm{W}} = \\frac{1}{2}m{v^2} + \\frac{1}{2}k{\\left( {\\Delta l} \\right)^2}$ $\\newline$
+2. Sự bảo toàn cơ năng của vật chuyển động chỉ dưới tác dụng của lực đàn hồi.  $\\newline$
+•	Khi một vật chỉ chịu tác dụng của lực đàn hồi gây bởi sự biến dạng của một lò xo đàn hồi thì  cơ năng của vật là một đại lượng bảo toàn : $\\newline$
+${\\rm{W}} = \\frac{1}{2}m{v^2} + \\frac{1}{2}k{\\left( {\\Delta l} \\right)^2}$ = hằng số$\\newline$
+•	Hay : $\\newline$
+$\\frac{1}{2}m{v_1}^2 + \\frac{1}{2}k{(\\Delta {l_1})^2} = \\frac{1}{2}m{v_2}^2 + \\frac{1}{2}k{(\\Delta {l_2})^2} = ...$ $\\newline$
+•	Chú ý : Định luật bảo toàn cơ năng chỉ đúng khi vật chuyển động chỉ chịu tác dụng của trọng lực và lực đàn hồi. Nếu vật chịu tác dụng của lực cản, lực ma sát,… thì cơ năng của vật biến đổi. Công của các lực cản, lực ma sát,… sẽ bằng độ biến thiên của cơ năng. $\\newline$
+
+</string>
+    <string name="c5_b1_p1">I. Cấu tạo chất: $\\newline$
+1. Cấu tạo chất: $\\newline$
+•	Các chất được cấu tạo từ các hạt riêng biệt gọi là phân tử. $\\newline$
+•	Các phân tử chuyển động không ngừng. $\\newline$
+•	Các phân tử chuyển động càng nhanh thì nhiệt độ của vật càng cao và ngược lại. $\\newline$
+2. Lực tương tác phân tử: $\\newline$
+•	Các phân tử tương tác nhau bằng lực hút và lực đẩy. Khoảng cách giữa các phân tử nhỏ thì lực đẩy lớn hơn lực hút và ngược lại. $\\newline$
+3. Các thể rắn, lỏng, khí: $\\newline$
+•	Ở thể khí các phân tử ở xa nhau, lực tương tác yếu, chất khí không có thể tích và hình dạng riêng. Chất khí có thể tích chiếm toàn bộ bình chứa, có thể nén dễ dàng. $\\newline$
+•	Ở thể rắn các phân tử ở gần nhau, lực tương tác rất mạnh, chất rắn có thể tích và hình dạng riêng xác định. $\\newline$
+•	Ở thể lỏng lực tương tác giữa các phân tử lớn hơn ở thể khí nhưng nhở hơn thể rắn, chất lỏng có thể tích xác định và có hình dạng của phần bình chứa nó. $\\newline$
+II. Thuyết động học phân tử chất khí: $\\newline$
+1. Nội dung cơ bản của thuyết động học phân tử chất khí: $\\newline$
+•	Chất khí được cấu tạo từ các phân tử có kích thước rất nhỏ so với khoảng cách giữa chúng. $\\newline$
+•	Các phân tử khí chuyển động hỗn loạn không ngừng; chuyển động này càng nhanh thì nhiệt độ chất khí càng cao. $\\newline$
+•	Khi chuyển động hỗn loạn các phân tử khí va chạm vào thành bình gây áp suất lên thành bình. $\\newline$
+2. Khí lí tưởng: $\\newline$
+•	Chất khí trong đó các phân tử được coi là các chất điểm và chỉ tương tác khi va chạm. $\\newline$
+</string>
+    <string name="c5_b2_p1">I. Trạng thái và quá trình biến đổi trạng thái. $\\newline$
+•	Trạng thái của một lượng khí được xác định bằng thể tích V, áp suất p và nhiệt độ tuyệt đối T. $\\newline$
+•	Ở mỗi trạng thái chất khí có các giá trị p, V và T nhất định gọi là các thông số trạng thái. Giữa các thông số trạng thái của một lượng khí có những mối liên hệ xác định.
+•	Lượng khí có thể chuyển từ trạng thái này sang trạng thái khác bằng các quá trình biến đổi trạng thái. $\\newline$
+•	Những quá trình trong đó chỉ có hai thông số biến đổi còn một thông số không đổi gọi là đẳng quá trình $\\newline$
+1. Quá trình đẳng nhiệt. $\\newline$
+•	Quá trình biến đổi trạng thái trong đó nhiệt độ được giữ không đổi gọi là quá trình đẳng nhiệt. $\\newline$2. Định luật Bôi-lơ – Ma-ri-ôt. $\\newline$
+II. 1Đặt vấn đề. $\\newline$
+•	Khi nhiệt độ không đổi, nếu thể tích của một lượng khí giảm thì áp suất của nó tăng. Nhưng áp suất có tăng tỉ lệ nghịch với thể tích hay không ? Để trả lời câu hỏi này ta phải dựa vào thí nghiệm. $\\newline$
+</string>
+    <string name="c5_b2_p2">Thí nghiệm. $\\newline$
+•	Thay đổi thể tích của một lượng khí, đo áp suất ứng với mỗi thể tích ta có kết quả : $\\newline$
+</string>
+    <string name="c5_b2_p3">•	Trong quá trình đẳng nhiệt của một khối lượng khí xác định, áp suất tỉ lệ nghịch với thể tích. $\\newline$
+3. Định luật Bôi-lơ – Ma-ri-ôt. $\\newline$
+a. Phát biểu $\\newline$
+•	Trong quá trình đẳng nhiệt của một lượng khí nhất định, áp suất tỉ lệ nghịch với thể tích.
+•	Phát biểu cách khác: $\\newline$
+o	Ở nhiệt độ không đổi, tích của thể tích một khối lượng khí với áp suất của lượng khí đó là một đại lượng không đổi. $\\newline$
+b. Hệ thức $\\newline$
+$p \sim \frac{1}{V}$ hay pV = hằng số $\\newline$
+•	Nếu gọi ${p_1},{V_1}$ là áp suất và thể tích của một lượng khí ở trạng thái 1; nếu gọi ${p_2},{V_2}$ là áp suất và thể tích của một lượng khí ở trạng thái 2 thì : $\\newline$
+${p_1}{V_{1}} = {\rm{ }}{p_2}{V_2}$  $\\newline$
+III. Đường đẳng nhiệt. $\\newline$
+•	Đường biểu diễn sự biến thiên của áp suất theo thể tích khi nhiệt độ không đổi gọi là đường đẳng nhiệt. $\\newline$
+•	Dạng đường đẳng nhiệt : $\\newline$
+</string>
+    <string name="c5_b2_p4">Đường đẳng nhiệt $\\newline$
+•	Trong hệ toạ độ p, V đường đẳng nhiệt là đường hypebol. $\\newline$
+•	Ứng với các nhiệt độ khác nhau của cùng một lượng khí có các đường đẳng nhiệt khác nhau. $\\newline$
+•	Đường đẳng nhiệt ở trên ứng với nhiệt độ cao hơn. $\\newline$
+
+</string>
+    <string name="c5_b3_p1">1) Quá trình đẳng tích: $\\newline$
+•	Quá trình biến đổi trạng thái khi thể tích không đổi là quá trình đẳng tích. $\\newline$
+2) Định luật Saclơ: $\\newline$
+•	Trong quá trình đẳng tích của một lượng khí nhất định, áp suất tỉ lệ thuận với nhiệt độ tuyệt đối. $\\newline$
+                                                    $\frac{p}{T}$ = hằng số$\\newline$
+3) Đường đẳng tích: $\\newline$
+•	Đường đẳng tích là đường biểu diễn sự biến thiên của áp suất theo nhiệt độ khi thể tích không đổi gọi là đường đẳng tích.
+•	Trong hệ tọa độ (p,T) đường đẳng tích là đường thẳng mà nếu kéo dài sẽ đi qua gốc tọa độ. $\\newline$
+</string>
+    <string name="c5_b4_p1">1)  Khí lí tưởng và khí thực: $\\newline$
+•	Khí thực là chất khí tồn tại trong thực tế như (oxi, nitơ, cacbonic,....) $\\newline$Khí lí tưởng là tuân theo đúng các định luật về chất khí đã học. $\\newline$
+2) Phương trình trạng thái của khí lí tưởng: $\\newline$
+$\frac{pV}{T}$ = hằng số  ⇒ $\frac{p_{1}V_{1}}{T_{1}}$ = $\frac{p_{2}V_{2}}{T_{2}}$ $\\newline$
+III) Quá trình đẳng áp: $\\newline$
+•	Quá trình đẳng áp là quá trình biến đổi trang thái khi áp suất không đổi$\\newline$
+•	Mối liên hệ giữa thể tích và nhiệt độ tuyệt đối trong quá trình đẳng áp: $\\newline$
+         $\frac{V_{1}}{T_{1}}$ = $\frac{V_{2}}{T_{2}}$ ⇒ $\frac{V}{T}$ = hằng số. $\\newline$
+•	Đường đẳng áp là đường biểu diễn sự biến thiên của thể tích theo nhiệt độ khi áp suất không đổi. $\\newline$
+</string>
+    <string name="c6_b1_p1">I. Nội năng. $\\newline$
+1. Nội năng là gì ? $\\newline$
+•	Nội năng của vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật.
+•	Nội năng của một vật phụ thuộc vào nhiệt độ và thể tích của vật : $U{\\rm{ }} = {\\rm{ }}f\\left( {T,{\\rm{ }}V} \\right)$ $\\newline$
+2. Độ biến thiên nội năng. $\\newline$
+•	Trong nhiệt động lực học người ta không quan tâm đến nội năng của vật mà quan tâm đến độ biến thiên nội năng $\\Delta U$ của vật, nghĩa là phần nội năng tăng thêm hay giảm bớt đi trong một quá trình. $\\newline$
+II. Các cách làm thay đổi nội năng. $\\newline$
+1. Thực hiện công. $\\newline$
+</string>
+    <string name="c6_b1_p2">•	Khi thực hiện công lên hệ hoặc cho hệ thức hiện công thì có thể làm thay đổi nội năng của hệ. $\\newline$
+•	Trong quá trình thực hiện công thì có sự biến đổi qua lại giữa nội năng và dạng năng lượng khác. $\\newline$
+2. Truyền nhiệt. $\\newline$
+a. Quá trình truyền nhiệt. $\\newline$
+</string>
+    <string name="c6_b1_p3">•	Khi cho một hệ tiếp xúc với một vật khác hoặc một hệ khác mà nhiệt độ của chúng khác nhau thì nhiệt độ hệ thay đổi và nội năng của hệ thay đổi. $\\newline$
+•	Quá trình làm thay đổi nội năng không có sự thực hiện công gọi là quá trình truyền nhiệt. $\\newline$
+•	Trong quá trình truyền nhiệt không có sự chuyển hoá năng lượng từ dạng này sang dạng khác mà chỉ có sự truyền nội năng từ vật này sang vật khác. $\\newline$
+b. Nhiệt lượng. $\\newline$
+•	Số đo độ biến thiên nội năng trong quá trình truyền nhiệt là nhiệt lượng. $\\newline$
+$\\Delta U$ = Q$\\newline$
+ΔU: độ biến thiên nội năng của vật. $\\newline$
+Q: nhiệt lượng vật nhận được từ vật khác hay tỏa ra cho vật khác. $\\newline$
+•	Nhiệt lượng mà một lượng chất rắn hoặc lỏng thu vào hay toả ra khi nhiệt độ thay đổi được tính theo công thức : $\\newline$
+$Q{\\rm{ }} = {\\rm{ }}mc\\Delta t$ $\\newline$
+m: khối lượng (kg) $\\newline$
+c: nhiệt dung riêng (J/kg.K) $\\newline$
+Δt: độ biến thiên nhiệt độ ($^0C{\\rm{ }}hay{\\rm{ }}K$ ) $\\newline$
+${t_2} > {\\rm{ }}{t_1}$ : Vật thu năng lượng$\\newline$
+${t_2} &lt; {\\rm{ }}{t_1}$ : Vật tỏa năng lượng$\\newline$
+
+</string>
+    <string name="c6_b2_p1">1. Nguyên lí I nhiệt động lực học (NĐLH) : $\\newline$
+•	Độ biến thiên nội năng của hệ bằng tổng công và nhiệt lượng mà hệ nhận được trong một quá trình. $\\newline$
+ ∆U = A + Q $\\newline$
+Trong đó :       A là công (J) $\\newline$
+                                      Q là nhiệt lượng (J) $\\newline$
+                                    ∆U là độ biến thiên nội năng (J) $\\newline$
+2. Quy ước về dấu của nhiệt lượng và công : $\\newline$
+·        Q > 0: Hệ nhận nhiệt lượng $\\newline$
+·        Q &lt; 0: Hệ truyền nhiệt lượng $\\newline$
+·        A > 0: Hệ nhận công $\\newline$
+·        A &lt; 0: Hệ thực hiện công $\\newline$
+3. Quá trình thuận nghịch và không thuận nghịch: $\\newline$
+•	 Quá trình thuận nghịch là: quá trình trạng thái của vật tự trở về trạng thái ban đầu mà không cần đến sự can thiệp của vật khác. $\\newline$
+•	Quá trình không thuận nghịch là: quá trình trạng thái của vật chỉ có thể xảy ra theo một chiều xác định, không thể tự xảy ra theo chiều ngược lại. Muốn xảy ra theo chiều ngược lại phải cần đến sự tác động bên ngoài hệ. $\\newline$
+4. Nguyên lí II nhiệt động lực học : $\\newline$
+•	Cách phát biểu của Clau-di-út : nhiệt không thể tự truyền từ một vật sang vật nóng hơn. $\\newline$
+•	Cách phát biểu của Các-nô: động cơ nhiệt không thể chuyển hóa tất cả nhiệt lượng nhận được thành công cơ học. $\\newline$
+5. Hiệu suất của động cơ nhiệt : $\\newline$
+•	   Ta có : H =$\\frac{\\left | A \\right |}{Q_{1}}$ &lt; 1 $\\newline$
+   Trong đó : Q1 là nhiệt lượng cung cấp cho bộ phận phát động (nhiệt lượng toàn phần). $\\newline$
+                     Q2 là nhiệt lượng tỏa ra (nhiệt lượng vô ích). $\\newline$
+                      A = Q1 – Q2 là phần nhiệt lượng chuyển hóa thành công. $\\newline$
+
+</string>
+    <string name="c7_b1_p1">I. Chất rắn kết tinh$\\newline$
+1. Cấu trúc tinh thể$\\newline$
+•	Cấu trúc tinh thể hay tinh thể là cấu trúc tạo bởi các hạt ( nguyên tử, phân tử, ion) liên kết chặt với nhau bằng những lực tương tác và sắp xếp theo một trật tự hình học không gian xác định gọi là mạng tinh thể, trong đó mỗi hạt luôn dao động nhiệt quanh vị trí cân bằng của nó. $\\newline$
+•	Chất rắn có cấu trúc tinh thể gọi là chất rắn kết tinh. $\\newline$
+•	Kích thước tinh thể của một chất tuỳ thuộc quá trình hình thành tinh thể diễn biến nhanh hay chậm (tốc độ kết tinh càng nhỏ, tinh thể có kích thước càng lớn).
+</string>
+    <string name="c7_b1_p2">2. Các đặc tính của chất rắn kết tinh$\\newline$
+•	Các chất rắn kết tinh được cấu tạo từ cùng một loại hạt, nhưng cấu trúc tinh thể không giống nhau thì những tính chất vật lí của chúng cũng rất khác nhau. Ví dụ: kim cương và than chì.... $\\newline$
+•	Mỗi chất rắn kết tinh ứng với mỗi cấu trúc tinh thể có một nhiệt độ nóng chảy xác định không đổi ở mỗi áp suất cho trước. $\\newline$
+o	Ví dụ: nước đá là $0^oC$; thiết $232^oC$; sắt $1530^oC$;...$\\newline$
+•	Chất rắn kết tinh có 2 loại: $\\newline$
+o	Chất rắn đơn tinh thể được cấu tạo từ một tinh thể. $\\newline$
+o	Ví dụ: Muối, thạch anh, kim cương... $\\newline$
+o	Có tính chất dị hướng. $\\newline$
+o	Chất rắn đa tinh thể được cấu tạo từ vô số tinh thể rất nhỏ liên kết hỗn độn với nhau.  $\\newline$
+o	Ví dụ: sắt, đồng,... $\\newline$
+o	Có tính chất đẳng hướng. $$\\newline$$
+3. Ứng dụng của các chất rắn kết tinh. $\\newline$
+•	  Các đơn tinh thể silic và giemani được dùng làm các linh kiện bán dẫn. Kim cương rất cứng nên được dùng làm mũi khoan, dao cát kính. $\\newline$
+•	  Kim loại và hợp kim được dùng phổ biến trong các ngành công nghệ khác nhau như luyện kim, chế tạo máy, xây dựng cầu đường…
+</string>
+    <string name="c7_b1_p3">II. Chất rắn vô định hình. $\\newline$
+•	Chất rắn vô định hình là các chất không có cấu trúc tinh thể , do đó chúng không có dạng hình học xác định. $\\newline$
+•	Các chất rắn vô định hình có tính đẳng hướng và không có nhiệt độ nóng chảy xác định. Khi bị nung nóng, chúng mềm dần và chuyển sang thể lỏng. $\\newline$
+•	Lưu ý : Một số chất rắn như đường, lưu huỳnh, … có thể tồn tại ở dạng tinh thể hoặc vô định hình. $\\newline$
+•	Các chất vô định hình như thuỷ tinh, các loại nhựa, cao su, … được dùng phổ biến trong nhiều ngành công nghệ khác nhau, do có nhiều đặc tính rất quý ( dễ tạo hình, không bị gỉ… )
+</string>
+    <string name="c7_b2_p1">I. Biến dạng đàn hồi. $\\newline$
+1. Thí nghiệm. $\\newline$
+•	Kéo thật mạnh một thanh thép ta thấy thanh thép bị dãn ra, đồng thời tiết diện ở phần giữa thanh thép hơi bị co nhỏ lại. $\\newline$
+•	Độ biến dạng tỉ đối của thanh rắn :
+$$\\varepsilon = \\frac{\\left |l-l_0 \\right |}{l_0}=\\frac{\\left |\\Delta l \\right |}{l_0}$$
+•	Trong đó: $\\newline$
+o	$\\varepsilon$ : gọi là độ biến dạng tỉ đối. $\\newline$
+o	$l_0$ : chiều dài ban đầu của vật rắn. $\\newline$
+o	$l$ : chiều dài sau khi biến dạng của vật rắn. $\\newline$
+o	$\\Delta l$ : độ biến dạng của vật rắn. $\\newline$
+o	$\\Delta l$ > 0 => vật rắn chịu biến dạng kéo giãn. $\\newline$
+o	$\\Delta l$ &lt; 0 => vật rắn chịu biến dạng nén (ép) $\\newline$
+•	Sự thay đổi kích thước và hình dạng của vật rắn do tác dụng của ngoại lực gọi là biến dạng cơ. Nếu vật rắn lấy lại được kích thước và hình dạng ban đầu khi ngoại lực ngừng tác dụng, thì biến dạng của vật rắn là biến dạng đàn hồi và vật rắn có tính đàn hồi. $$\\newline$$
+2. Giới hạn đàn hồi. $\\newline$
+•	Khi vật rắn chịu tác dụng của lực quá lớn thì nó bị biến dạng mạnh, không thể lấy lại kích thước và hình dạng ban đầu. Trường hợp này vật rắn bị mất tính đàn hồi và biến dạng đó là biến dạng dẻo$\\newline$
+•	Giới hạn trong đó vật rắn còn giữ được tính đàn hồi của nó gọi là giới hạn đàn hồi. $$\\newline$$
+II. Định luật Húc. $\\newline$
+1. Ứng suất. $\\newline$
+•	Thương số : $\\sigma (Pa)=\\frac{F(N)}{S(m^2)}$ gọi là ứng suất lực tác dụng vào thanh rắn. $\\newline$
+•	Trong đó: $\\newline$
+o	F: lực nén hoặc kéo (N) $\\newline$
+o	S: tiết diện của vật rắn hình trụ đồng chất $\\left (m^2 \\right )$ $\\newline$
+o	$\\sigma$ (đọc là sigma) : ứng suất của vật rắn ( $N/m^2$ hoặc Pa) $$\\newline$$
+2. Định luật Húc về biến dạng cơ của vật rắn. $\\newline$
+•	  Trong giới hạn đàn hồi, độ biến dạng tỉ đối của vật rắn hình trụ đồng chất tỉ lệ thuận với ứng suất tác dụng vào vật đó.
+$$\\varepsilon=\\frac{\\left |\\Delta l \\right |}{l_0}=\\alpha .\\sigma$$
+  Với $\\alpha$ là hệ số tỉ lệ phụ thuộc chất liệu của vật rắn. $$\\newline$$
+3. Lực đàn hồi. $\\newline$
+•	Độ lớn của lực đàn hồi trong vật rắn tỉ lệ thuận với độ biến dạng của vật rắn.
+$$F_d_h=k.\\left |\\Delta l \\right |=E. \\frac{S}{l_0}.\\left |\\Delta l \\right |$$
+  Trong đó $E=\\frac{1}{\\alpha }$ gọi là suất đàn hồi hay suất Young đặc trưng cho tính đàn hồi của vật rắn, k là độ cứng phụ thuộc vào và kích thước của vật đó. $\\newline$
+•	Đơn vị đo của E là Pa, của k là N/m.
+</string>
+    <string name="c7_b3_p1">I. Sự nở dài. $\\newline$
+1. Thí nghiệm. $\\newline$
+•	Một vật rắn bằng kim loại đồng chất, một cầu được gắn chặt cố định, một đầu được nối với một bộ phận lẫy có thể mở rộng góc đo khi thanh rắn giãn nở vì nhiệt. $\\newline$
+•	Nung nóng thanh kim loại kim loại ta thấy góc đo mở rộng sau một khoảng thời gian điều này chứng tỏ vật rắn đã bị biến dạng khi nhiệt độ thay đổi. $$\\newline$$
+2. Kết luận. $\\newline$
+•	Sự tăng độ dài của vật rắn khi nhiệt độ tăng gọi là sự nở dài vì nhiệt. $\\newline$
+•	Biểu thức xác định độ nở dài của vật rắn: $\\newline$
+$$\Delta l=l-l_0=\alpha l_0.\Delta t$$
+•	Trong đó: $\\newline$
+o	$l_0$: chiều dài ban đầu của vật rắn$\\newline$
+o	$l$ : chiều dài sau khi giãn nở vì nhiệt của vật rắn$\\newline$
+o	$\alpha$ : hệ số nở dài phụ thuộc vào bản chất của vật rắn, đơn vị là $\frac{1}{k}$ hay ${k^{ - 1}}$$\\newline$
+o	$\Delta t=t_2-t_1$ : độ tăng nhiệt độ của vật rắn$\\newline$
+o	$\Delta l$ : độ nở dài của vật rắn$\\newline$
+•	Hệ số nở dài của một số vật liệu:
+</string>
+    <string name="c7_b3_p2">II. Sự nở khối. $\\newline$
+1. Thí nghiệm. $\\newline$
+•	Một vật rắn có dạng hình cầu đồng chất và một vật rắn đồng chất khác hình vành khuyên tròn. $\\newline$
+•	Ở nhiệt độ ban đầu (nhiệt độ phòng) ta có thể đưa quả cầu qua hình vành khuyên dễ dàng do đường kính ngoài của quả cầu kim loại nhỏ hơn đường kính trong của vật rắn hình vành khuyên. $\\newline$
+•	Tiến hành nung nóng quả cầu kim loại bằng đèn ga, sau khi nung nóng quả cầu kim loại không thể đi qua được vật rắn hình vành khuyên, điều này chứng tỏ thể tích của của cầu đã tăng lên do nhiệt độ hay nói cách khác vật rắn đã bị biến dạng vì nhiệt. $$\\newline$$
+2. Kết luận. $\\newline$
+•	Sự tăng thể tích của vật rắn khi nhiệt độ tăng gọi là sự nở khối. $\\newline$
+•	Biểu thức độ nở khối của vật rắn: $\\newline$
+$$\Delta V=V-V_0=\beta .V_0.\Delta t=3\alpha .\Delta t$$
+•	Trong đó: $\\newline$
+o	$V_0$: thể tích ban đầu của vật rắn$\\newline$
+o	V: thể tích sau khi giãn nở vì nhiệt của vật rắn$\\newline$
+o	$\beta =3\alpha$:  hệ số nở khối phụ thuộc vào bản chất của vật rắn và cũng có đơn vị là ${k^{ - 1}}$ $\\newline$
+o	$\Delta t=t_2-t_1$: độ tăng nhiệt độ của vật rắn$\\newline$
+o	$\Delta V$: độ nở khối của vật rắn$$\\newline$$
+III. Ứng dụng biến dạng nhiệt của vật rắn$\\newline$
+•	Trong thực tế các vật rắn bị biến dạng nhiệt khi nhiệt độ môi trường thay đổi và tất cả đều nở khối (giãn nở về thể tích) tuy nhiên tùy vào hình dạng của vật rắn sẽ ưu tiên nở khối hay nở dài, ví dụ các vật rắn có dạng thanh dài sẽ ưu tiên nở dài nhiều hơn. $\\newline$
+•	Sự giãn nở vì nhiệt của vật rắn là điều không thể tránh khỏi vì thời tiết trên Trái Đất được phân chia thành hai mùa rõ rệt mùa đông (nhiệt độ giảm) và mùa hè (nhiệt độ tăng cao). $\\newline$
+•	Trong xây dựng người ta luôn phải tính đến trường hợp giãn nở vì nhiệt, nếu không các công trình xây dựng có thể bị cong, vênh, nứt, phá hủy do sự giãn nở không đồng đều của các vật rắn khác nhau.
+</string>
+    <string name="c7_b3_p3">•	Trong ngành giao thông vận tải đường sắt, khi làm đường ray cho tàu chạy trong thời gian đầu các kỹ sư xây dựng đã bỏ qua tính chất vật lý biến dạng nhiệt của vật rắn, khiến cho các đoạn đường ray bị cong vênh làm mất an toàn và dẫn đến tai nạn tàu trệch bánh.</string>
+    <string name="c7_b3_p4">•	Để khắc phục hiện tượng biến dạng nhiệt của vật rắn theo thời tiết, trên các đường ray thường bố trí các khe hở để thanh ray có thể giãn nở vì nhiệt mà không làm cong vênh đường ray.</string>
+    <string name="c7_b3_p5">•	Không chỉ có các kim loại, vật liệu bê tông cốt thép cũng bị giãn nở vì nhiệt nên trên các nhịp cầu đường bộ người ta cũng phải tạo ra các khe hở trên cầu để cho cầu giãn nở vì nhiệt khi thời tiết thay đổi tránh bị cong, vênh và gãy.
+</string>
+    <string name="c7_b4_p1">I. Hiện tượng căng bề mặt của chất lỏng. $\\newline$
+1. Thí nghiệm.
+</string>
+    <string name="c7_b4_p2">•	  Chọc thủng màng xà phòng bên trong vòng dây chỉ ta thấy vòng dây chỉ được căng tròn. $\\newline$
+•	  Hiện tượng cho thấy trên bề mặt màng xà phòng đã có các lực nằm tiếp tuyến với bề mặt màng và kéo nó căng đều theo mọi phương vuông góc với vòng dây chỉ. $\\newline$
+•	  Những lực kéo căng bề mặt chất lỏng gọi là lực căng bề mặt chất lỏng.$$\\newline$$
+2. Giải thích hiện tượng căng bề mặt của chất lỏng$\\newline$
+•	Hiện tượng căng bề mặt của chất lỏng xảy ra ở mọi chất lỏng, sự hình thành lực căng bề mặt chất lỏng là do lực tương tác giữa các phân tử chất lỏng. $\\newline$
+•	Bên trong lòng chất lỏng các phân tử chất lỏng ở cạnh nhau theo mọi hướng nên lực tương tác giữa các phân tử chất lỏng bị chia nhỏ cho các phân tử chất lỏng xung quanh. $\\newline$
+•	Đối với các phân tử chất lỏng ở bề mặt, do các phân tử chất lỏng xung quanh bị ít đi nên lực liên kết giữa các phân tử chất lỏng không bị chia quá nhỏ cho các phân tử chất lỏng xung quanh từ đó hình thành nên lực căng bề mặt của chất lỏng giữ cho mặt chất lỏng luôn "căng".
+</string>
+    <string name="c7_b4_p3">•	Lực liên kết giữa các phân tử tại bề mặt chất lỏng lớn hơn lực liên kết giữa các phân tử bên trong lòng chất lỏng, từ đó hình thành nên lực căng bề mặt của chất lỏng$$\\newline$$
+3. Lực căng bề mặt. $\\newline$
+•	Lực căng bề mặt tác dụng lên một đoạn đường nhỏ bất kì trên bề mặt chất lỏng luôn luôn có phương vuông góc với đoạn đường này và tiếp tuyến với bề mặt chất lỏng, có chiều làm giảm diện tích bề mặt của chất lỏng và có độ lớn tỉ lệ thuận với độ dài của đoạn đường đó : $$F=\\sigma .l$$.
+•	Trong đó: $\\newline$
+o	F: lực căng bề mặt chất lỏng (N) $\\newline$
+o	$\\sigma$: hệ số căng bề mặt của chất lỏng (N/m) $\\newline$
+o	$l$: độ dài đường giới hạn bề mặt chất lỏng (m) $\\newline$
+•	Hệ số $\\sigma$ phụ thuộc vào bản chất và nhiệt độ của chất lỏng : $\\sigma$ giảm khi nhiệt độ tăng.  $$\\newline$$
+4. Ứng dụng. $\\newline$
+•	Nhờ có lực căng mặt ngoài nên nước mưa không thể lọt qua các lổ nhỏ giữa các sợi vải căng trên ô dù hoặc trên các mui bạt ôtô. $\\newline$
+•	Hoà tan xà phòng vào nước sẽ làm giảm đáng kể lực căng mặt ngoài của nước, nên nước xà phòng dễ thấm vào các sợi vải khi giặt để làm sạch các sợi vải, …$$\\newline$$
+5. Vận dụng để xác định lực căng mặt ngoài và hệ số căng mặt ngoài. $\\newline$
+•	Lực căng mặt ngoài tác dụng lên vòng chỉ trong thí nghiệm: $F_c=\\sigma .2\\pi d$ $\\newline$
+•	Với d là đường kính của vòng dây, $\\pi d$ là chu vi của vòng dây. Vì màng xà phòng có hai mặt trên và dưới phải nhân đôi. $\\newline$
+•	Xác định hệ số căng mặt ngoài bằng thí nghiệm : $\\newline$
+•	Số chỉ của lực kế khi bắt đầu nâng được vòng nhôm lên : $F=F_c+P\\Rightarrow F_c=F-P$ $\\newline$
+•	Mà $F_c=\\sigma .\\pi \\left (D+d \\right )$ ⇒ $\\sigma =\\frac{F_c}{\\pi \\left (D+d \\right )}$ $$\\newline$$
+II. Hiện tượng dính ướt và không dính ướt. $\\newline$
+1. Thí nghiệm. $\\newline$
+•	Giọt nước nhỏ lên bản thuỷ tinh sẽ bị lan rộng ra thành một hình dạng bất kỳ, vì nước dính ướt thuỷ tinh. $\\newline$
+•	Giọt nước nhỏ lên bản thuỷ tinh phủ một lớp nilon sẽ vo tròn lại và bị dẹt xuống do tác dụng của trọng lực, vì nước không dính ướt với nilon. $\\newline$
+•	Bề mặt chất lỏng ở sát thành bình chứa nó có dạng mặt khum lỏm khi thành bình bị dính ướt và có dạng mặt khum lồi khi thành bình không bị dính ướt.
+</string>
+    <string name="c7_b4_p4">2. Ứng dụng. $\\newline$
+•	Hiện tượng mặt vật rắn bị dính ướt chất lỏng được ứng dụng để làm giàu quặng theo phương pháp “tuyển nổi”. $$\\newline$$
+III. Hiện tượng mao dẫn. $\\newline$
+1. Thí nghiệm. $\\newline$
+•	Nhúng các ống thuỷ tinh có đường kính trong nhỏ vào trong chất lỏng ta thấy :
+</string>
+    <string name="c7_b4_p5">•	Nếu thành ống bị dính ướt, mức chất lỏng bên trong ống sẽ dâng cao hơn bề mặt chất lỏng ở ngoài ống và bề mặt chất lỏng trong ống có dạng mặt khum lỏm. $\\newline$
+•	Nếu thành ống không bị dính ướt, mức chất lỏng bên trong ống sẽ hạ thấp hơn bề mặt chất lỏng ở ngoài ống và bề mặt chất lỏng trong ống có dạng mặt khum lồi. $\\newline$
+•	Nếu có đường kính trong càng nhỏ, thì mức độ dâng cao hoặc hạ thấp của mức chất lỏng bên trong ống so với bề mặt chất lỏng ở bên ngoài ống càng lớn. $$\\newline$$
+2. Hiện tượng mao dẫn. $\\newline$
+•	Hiện tượng mức chất lỏng ở bên trong các ống có đường kính nhỏ luôn dâng cao hơn, hoặc hạ thấp hơn so với bề mặt chất lỏng ở bên ngoài ống gọi là hiện tượng mao dẫn. $\\newline$
+•	Các ống trong đó xẩy ra hiện tượng mao dẫn gọi là ống mao dẫn. $\\newline$
+Hệ số căng mặt ngoài $\\sigma$ càng lớn, đường kính trong của ống càng nhỏ thì mức chênh lệch chất lỏng trong ống và ngoài ống càng lớn. $$\\newline$$
+3. Ứng dụng.
+
+</string>
+    <string name="c7_b4_p6">•	Ứng dụng hiện tượng mao dẫn trong chế tạo đèn dầu thời xưa . Bấc dầu là một loại vật liệu gồm nhiều sợi bông nhỏ đóng vai trò như ống mao dẫn giúp nâng chất lỏng (dầu) lên phía trên để làm nguyên liệu cháy cho ngọn lửa.</string>
+    <string name="c7_b4_p7">•	Các cây xanh dù to lớn, hay rất nhỏ đều có một bộ rễ cắm sâu vào trong lòng đất, các sợi rễ này giống như ống mao dẫn giúp vận chuyển chất lỏng cùng muối khoáng từ trong các mạch nước ngầm sâu trong lòng đất lên thân để nuôi sống cây.
+
+</string>
+    <string name="c7_b5_p1">I. Sự nóng chảy. $\\newline$
+Quá trình chuyển từ thể rắn sang thể lỏng gọi là sự nóng chảy.
+</string>
+    <string name="c7_b5_p2">1. Thí nghiệm. $\\newline$
+•	Khảo sát quá trình nóng chảy và đông đặc của các chất rắn ta thấy : $\\newline$
+o	Mỗi chất rắn kết tinh có một nhiệt độ nóng chảy xác định ở mỗi áp suất cho trước. $\\newline$
+o	Các chất rắn vô định hình không có nhiệt độ nóng chảy xác định. $\\newline$
+o	Đa số các chất rắn, thể tích của chúng sẽ tăng khi nóng chảy và giảm khi đông đặc. $\\newline$
+o	Nhiệt độ nóng chảy của chất rắn thay đổi phụ thuộc vào áp suất bên ngoài. $$\\newline$$
+2. Nhiệt nóng chảy. $\\newline$
+•	Nhiệt lượng Q cần cung cấp cho chất rắn trong quá trình nóng chảy gọi là nhiệt nóng chảy : $Q=\\lambda .m$ $\\newline$
+•	Với $\\lambda$ là nhiệt nóng chảy riêng phụ thuộc vào bản chất của chất rắn nóng chảy, có đơn vị là J/kg. $$\\newline$$
+3. Ứng dụng. $\\newline$
+•	Nung chảy kim loại để đúc các chi tiết máy, đúc tượng, chuông, luyện gang thép. $$\\newline$$
+II. Sự bay hơi. $\\newline$
+1. Thí nghiệm. $\\newline$
+•	Đổ một lớp nước mỏng lên mặt đĩa nhôm. Thổi nhẹ lên bề mặt lớp nước hoặc hơ nóng đĩa nhôm, ta thấy lớp nước dần dần biến mất. Nước đã bốc thành hơi bay vào không khí. $\\newline$
+•	Đặt bản thuỷ tinh gần miệng cốc nước nóng, ta thấy trên mặt bản thuỷ tinh xuất hiện các giọt nước. Hơi nước từ cốc nước đã bay lên đọng thành nước. $\\newline$
+•	Làm thí nghiệm với nhiều chất lỏng khác ta cũng thấy hiện tượng xảy ra tương tự. $\\newline$
+•	Quá trình chuyển từ thể lỏng sang thể khí ở bề mặt chất lỏng gọi là sự bay hơi. Quá trình ngược lại từ thể khí sang thể lỏng gọi là sự ngưng tụ. Sự bay hơi xảy ra ở nhiệt độ bất kì và luôn kèm theo sự ngưng tụ. $$\\newline$$
+2. Hơi khô và hơi bão hoà. $\\newline$
+•	Xét không gian trên mặt thoáng bên trong bình chất lỏng đậy kín : $\\newline$
+•	Khi tốc độ bay hơp lớn hơn tốc độ ngưng tụ, áp suất hơi tăng dần và hơi trên bề mặt chất lỏng là hơi khô. $\\newline$
+•	Khi tốc độ bay hơi bằng tốc độ ngưng tụ, hơi ở phía trên mặt chất lỏng là hơi bảo hoà có áp suất đạt giá trị cực đại gọi là áp suất hơi bảo hoà. $\\newline$
+•	Áp suất hơi bảo hoà không phụ thuộc thể tích và không tuân theo định luật Bôi-lơ – Ma-ri-ôt, nó chỉ phụ thuộc vào bản chất và nhiệt độ của chất lỏng. $$\\newline$$
+3. Ứng dụng. $\\newline$
+•	Sự bay hơi nước từ biển, sông, hồ, … tạo thành mây, sương mù, mưa, làm cho khí hậu điều hoà và cây cối phát triển. $\\newline$
+•	Sự bay hơi của nước biển được sử dụng trong ngành sản xuất muối. $\\newline$
+•	Sự bay hơi của amôniac, frêôn, … được sử dụng trong kỉ thuật làm lạnh. $\\newline$
+•	Ví dụ về sự bay hơi và sự ngưng tụ
+</string>
+    <string name="c7_b5_p3">III. Sự sôi. $\\newline$
+Sự chuyển từ thể lỏng sang thể khí xảy ra ở cả bên trong và trên bề mặt chất lỏng gọi là sự sôi. $$\\newline$$
+1. Thí nghiệm. $\\newline$
+•	Làm thí nghiệm với các chất lỏng khác nhau ta nhận thấy : $\\newline$
+o	Dưới áp suất chuẩn, mỗi chất lỏng sôi ở một nhiệt độ xác định và không thay đổi. $\\newline$
+o	Nhiệt độ sôi của chất lỏng phụ thuộc vào áp suất chất khí ở phía trên mặt chất lỏng. Áp suất chất khí càng lớn, nhiệt độ sôi của chất lỏng càng cao. $$\\newline$$
+2. Nhiệt hoá hơi. $\\newline$
+•	Nhiệt lượng Q cần cung cấp cho khối chất lỏng trong khi sôi gọi là nhiệt hoá hơi của khối chất lỏng ở nhiệt độ sôi : $Q=L.m$. $\\newline$
+•	Với L là nhiệt hoá hơi riêng phụ thuộc vào bản chất của chất lỏng bay hơi, có đơn vị là J/kg.
+
+</string>
+    <string name="c7_b6_p1">I. Độ ẩm tuyệt đối và độ ẩm cực đại. $\\newline$
+1. Độ ẩm tuyệt đối. $\\newline$
+•	Độ ẩm tuyệt đối a của không khí là đại lượng được đo bằng khối lượng hơi nước tính ra gam chứa trong $1m^3$ không khí. $\\newline$
+•	Đơn vị của độ ẩm tuyệt đối là $g/m^3$. $$\\newline$$
+2. Độ ẩm cực đại. $\\newline$
+•	Độ ẩm cực đại A là độ ẩm tuyệt đối của không khí chứa hơi nước bảo hoà. Giá trị của độ ẩm cực đại A tăng theo nhiệt độ. $\\newline$
+•	Đơn vị của độ ẩm cực đại là $g/m^3$. $\\newline$
+•	Chú ý: độ ẩm cực đại được lấy bằng khối lượng riêng của hơi nước bão hòa, ví dụ: độ ẩm cực đại ở 28oC là 27,2(g/m3). $$\\newline$$
+II. Độ ẩm tỉ đối. $\\newline$
+•	Độ ẩm tuyệt đối a chưa cho biết không khí ẩm nhiều hay ẩm ít, vì nhiệt độ càng thấp thì hơi nước càng dễ bão hòa và độ ẩm tuyệt đối càng gần độ ẩm cực đại.  $\\newline$
+•	Để mô tả mức độ ẩm của không khí ở mỗi nhiệt độ, người ta dùng độ ẩm tỉ đối $f$. $\\newline$
+•	Độ ẩm tỉ đối $f$ của không khí là đại lượng đo bằng tỉ số phần trăm giữa độ ẩm tuyệt đối a và độ ẩm cực đại A của không khí ở cùng nhiệt độ : $\\newline$
+$$f=\\frac{a}{A}.100%$$
+•	Hoặc tính gần đúng bằng tỉ số phần trăm giữa áp suất riêng phần p của hơi nước và áp suất pbh của hơi nước bảo hoà trong không khí ở cùng một nhiệt độ. $\\newline$
+$$f = \\frac{p}{{{p_b}_h}}.100\\% $$
+•	Không khí càng ẩm thì độ ẩm tỉ đối của nó càng cao. $\\newline$
+•	Có thể đo độ ẩm của không khí bằng các ẩm kế : Am kế tóc, ẩm kế khô – ướt, ẩm kế điểm sương. $$\\newline$$
+III. Ảnh hưởng của độ ẩm không khí. $\\newline$
+•	Độ ẩm không khí ảnh hưởng rất lớn đến rất nhiều quá trình trên trái đất. Các giá trị đo lường về độ ẩm của không khí giúp ích cho việc dự đoán được thời tiết. $\\newline$
+</string>
+    <string name="c7_b6_p2">•	Độ ẩm tỉ đối của không khí càng nhỏ, sự bay hơi qua lớp da càng nhanh, thân người càng dễ bị lạnh. $\\newline$
+•	Độ ẩm tỉ đối cao hơn 80% sẽ tạo điều kiện cho cây cối phát triển, nhưng lại dễ làm ẩm mốc hàng hóa trong kho và làm hư hỏng máy móc, dụng cụ điện tử, cơ khí, khí tài quân sự. $\\newline$
+•	Để chống ẩm, người ta phải thực hiện nhiều biện pháp như dùng chất hút ẩm, sấy nóng, thông gió, …
+
+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

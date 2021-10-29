@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/red"
+        android:title="@string/c6_b1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp">
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c6_b1_p1"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/c6_b1_h1"/>
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c6_b1_p2"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/c6_b1_h2"/>
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="•	Khi cho một hệ tiếp xúc với một vật khác hoặc một hệ khác mà nhiệt độ của chúng khác nhau thì nhiệt độ hệ thay đổi và nội năng của hệ thay đổi. $\\newline$
+•	Quá trình làm thay đổi nội năng không có sự thực hiện công gọi là quá trình truyền nhiệt. $\\newline$
+•	Trong quá trình truyền nhiệt không có sự chuyển hoá năng lượng từ dạng này sang dạng khác mà chỉ có sự truyền nội năng từ vật này sang vật khác. $\\newline$
+b. Nhiệt lượng. $\\newline$
+•	Số đo độ biến thiên nội năng trong quá trình truyền nhiệt là nhiệt lượng. $\\newline$
+$\Delta U$ = Q$\\newline$
+ΔU: độ biến thiên nội năng của vật. $\\newline$
+Q: nhiệt lượng vật nhận được từ vật khác hay tỏa ra cho vật khác. $\\newline$
+•	Nhiệt lượng mà một lượng chất rắn hoặc lỏng thu vào hay toả ra khi nhiệt độ thay đổi được tính theo công thức : $\\newline$
+$Q{\rm{ }} = {\rm{ }}mc\Delta t$ $\\newline$
+m: khối lượng (kg) $\\newline$
+c: nhiệt dung riêng (J/kg.K) $\\newline$
+Δt: độ biến thiên nhiệt độ ($^0C{\rm{ }}hay{\rm{ }}K$ ) $\\newline$
+${t_2} > {\rm{ }}{t_1}$ : Vật thu năng lượng$\\newline$
+${t_2} &lt; {\rm{ }}{t_1}$ : Vật tỏa năng lượng$\\newline$"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

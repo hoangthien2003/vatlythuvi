@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/red"
+        android:title="@string/c6_b2" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp">
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="1. Nguyên lí I nhiệt động lực học (NĐLH) : $\\newline$
+•	Độ biến thiên nội năng của hệ bằng tổng công và nhiệt lượng mà hệ nhận được trong một quá trình. $\\newline$
+ ∆U = A + Q $\\newline$
+Trong đó :       A là công (J) $\\newline$
+                                      Q là nhiệt lượng (J) $\\newline$
+                                    ∆U là độ biến thiên nội năng (J) $\\newline$
+2. Quy ước về dấu của nhiệt lượng và công : $\\newline$
+·        Q > 0: Hệ nhận nhiệt lượng $\\newline$
+·        Q &lt; 0: Hệ truyền nhiệt lượng $\\newline$
+·        A > 0: Hệ nhận công $\\newline$
+·        A &lt; 0: Hệ thực hiện công $\\newline$
+3. Quá trình thuận nghịch và không thuận nghịch: $\\newline$
+•	 Quá trình thuận nghịch là: quá trình trạng thái của vật tự trở về trạng thái ban đầu mà không cần đến sự can thiệp của vật khác. $\\newline$
+•	Quá trình không thuận nghịch là: quá trình trạng thái của vật chỉ có thể xảy ra theo một chiều xác định, không thể tự xảy ra theo chiều ngược lại. Muốn xảy ra theo chiều ngược lại phải cần đến sự tác động bên ngoài hệ. $\\newline$
+4. Nguyên lí II nhiệt động lực học : $\\newline$
+•	Cách phát biểu của Clau-di-út : nhiệt không thể tự truyền từ một vật sang vật nóng hơn. $\\newline$
+•	Cách phát biểu của Các-nô: động cơ nhiệt không thể chuyển hóa tất cả nhiệt lượng nhận được thành công cơ học. $\\newline$
+5. Hiệu suất của động cơ nhiệt : $\\newline$
+•	   Ta có : H =$\frac{\left | A \right |}{Q_{1}}$ &lt; 1 $\\newline$
+   Trong đó : Q1 là nhiệt lượng cung cấp cho bộ phận phát động (nhiệt lượng toàn phần). $\\newline$
+                     Q2 là nhiệt lượng tỏa ra (nhiệt lượng vô ích). $\\newline$
+                      A = Q1 – Q2 là phần nhiệt lượng chuyển hóa thành công. $\\newline$"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

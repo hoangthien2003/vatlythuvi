@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/red"
+        android:title="@string/c4_b2" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp">
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c1_b4_p1"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/c4_b2_h1"/>
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c4_b2_p2"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/c4_b2_h2"/>
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="•	Khi $\\alpha $ là góc tù thì  $\\cos $.$\\alpha $ &lt; 0, suy ra A &lt; 0 ; khi đó A gọi là công cản. $\\newline$"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/c4_b2_h3"/>
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c4_b2_p4"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

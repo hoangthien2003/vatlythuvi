@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/red"
+        android:title="@string/c7_b5"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp">
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c7_b5_p1"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+            <com.cunoraz.gifview.library.GifView
+                android:id="@+id/gif1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:gif="@drawable/c7_b5_h1"
+                android:layout_gravity="center"/>
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c7_b5_p2"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/c7_b5_h2"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Khi đạt đến nhiệt độ 1000C nước bắt đầu bay hơi (sự chuyển thể từ lỏng sang khí của chất lỏng)"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:textColor="@color/black"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/c7_b5_h3"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Khi đêm xuống nhiệt độ trong không khí giảm, hơi nước trong không khí ngưng tụ lại thành những giọt sương."
+                android:gravity="center"
+                android:textStyle="italic"
+                android:textColor="@color/black"/>
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c7_b5_p3"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

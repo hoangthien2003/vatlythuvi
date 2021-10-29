@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/red"
+        android:title="@string/c1_b7" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp">
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="@string/c1_b7_p1"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/c1_b7_h1"/>
+
+            <katex.hourglass.in.mathlib.MathView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                app:setText="II. Sai số của phép đo. $\\newline$
+1. Sai số hệ thống. $\\newline$
+•	  Là sự sai lệch do phần lẻ không đọc được chính xác trên dụng cụ (gọi là sai số dụng cụ  $\\Delta A'$ ) hoặc điểm 0 ban đầu bị lệch. $\\newline$  Sai số dụng cụ $\\Delta A'$ thường lấy bằng nữa hoặc một độ chia trên dụng cụ. $\\newline$
+2. Sai số ngẫu nhiên. $\\newline$
+•	  Là sự sai lệch do hạn chế về khả năng giác quan của con người do chịu tác động của các yếu tố ngẫu nhiên bên ngoài. $\\newline$
+3. Giá trị trung bình. $\\newline$
+$\\overline A  = \\frac{{{A_1} + {A_2} + ... + {A_n}}}{n}$ $\\newline$
+4. Cách xác định sai số của phép đo. $\\newline$
+•	Sai số tuyệt đối của mỗi lần đo : $\\newline$
+$\\Delta {A_1} = \\left| {\\overline A  - {A_1}} \\right|;\\,\\,\\Delta {A_1} = \\left| {\\overline A  - {A_2}} \\right|$ $\\newline$
+•	Sai số tuyệt đối trung bình của n lần đo : $\\newline$
+$\\Delta \\overline A  = \\frac{{\\Delta {A_1} + \\Delta {A_2} + ... + \\Delta {A_n}}}{n}$ $\\newline$
+•	Sai số tuyệt đối của phép đo là tổng sai số tuyệt đối trung bình và sai số dụng cụ : $\\newline$
+$\\Delta A = \\Delta \\overline A  + \\Delta A'$ $\\newline$
+5. Cách viết kết quả đo. $\\newline$
+$A = \\overline A  + \\Delta A$ $\\newline$
+6. Sai số tỉ đối. $\\newline$
+$\\partial A = \\frac{{\\Delta A}}{{\\overline A }}.100\\% $ $\\newline$
+7. Cách xác định sai số của phép đo gián tiếp. $\\newline$
+•	Sai số tuyệt đối của một tổng hay hiệu thì bằng tổng các sai số tuyệt đối của các số hạng. $\\newline$
+•	Sai số tỉ đối của một tích hay thương thì bằng tổng các sai số tỉ đối của các thừa số. $\\newline$
+•	Nếu trong công thức vật lí xác định các đại lượng đo gián tiếp có chứa các hằng số thì hằng số phải lấy đến phần thập phân lẻ nhỏ hơn $\\frac{1}{{10}}$   tổng các sai số có mặt trong cùng công thức tính. $\\newline$
+•	Nếu công thức xác định đại lượng đo gián tiếp tương đối phức tạp và các dụng cụ đo trực tiếp có độ chính xác tương đối cao thì có thể bỏ qua sai số dụng cụ.
+"
+                app:setTextColor="@color/black"
+                app:setClickable="true"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

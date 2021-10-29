@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/drawable/circle_red.xml" value="0.2203125" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/drawable/home.xml" value="0.2064814814814815" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/drawable/next.xml" value="0.2203125" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/drawable/search.xml" value="0.1125" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/drawable/watch.xml" value="0.1109375" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/activity2.xml" value="0.25" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/activity_chuyende1.xml" value="0.1802536231884058" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/activity_chuyende1_chude1.xml" value="0.1802536231884058" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/activity_intro.xml" value="0.25" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/activity_ques.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/activity_splash.xml" value="0.17119565217391305" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/activity_start.xml" value="0.16621376811594202" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c1b1.xml" value="0.18" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c1b2.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c1b3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c1b4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c1b5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c1b6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c1b7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c2b1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c2b2.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c2b3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c2b4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c2b5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c2b6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c2b7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c3b1.xml" value="0.1925925925925926" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c3b2.xml" value="0.1925925925925926" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c3b3.xml" value="0.1925925925925926" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c3b4.xml" value="0.1925925925925926" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c3b5.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c3b6.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c4b1.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c4b2.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c4b3.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c4b4.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c4b5.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c5b1.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c5b2.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c5b3.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c5b4.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c6b1.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c6b2.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c7b1.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c7b2.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c7b3.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c7b4.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c7b5.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/c7b6.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/fragment_bt.xml" value="0.18" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/fragment_lt.xml" value="0.18" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/fragment_onboarding1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/fragment_onboarding2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/fragment_onboarding3.xml" value="0.18" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/fragment_th.xml" value="0.254380272550292" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/loading_layout.xml" value="0.25" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/ltc1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/ltc2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/ltc3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/ltc4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/ltc5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/ltc6.xml" value="0.1" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/ltc7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/row_item.xml" value="0.14719202898550723" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/layout/video.xml" value="0.15" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Vatlythuvi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity2.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende1.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende1_chude1.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende1_chude2.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende1_chude3.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende1_chude4.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende1_chude5.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende2.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende2_chude1.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende2_chude2.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende2_chude3.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende2_chude4.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende2_chude5.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende2_chude6.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende2_chude7.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende3.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende4.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende5.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_chuyende6.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_main_screen.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/activity_ques.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/c1b1.xml" value="0.264" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/fragment_bt.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/fragment_lt.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/fragment_th.xml" value="0.22334293948126802" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/ltc1.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/ltc2.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/ltc3.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/ltc4.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/ltc5.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/ltc6.xml" value="0.2421875" />
+        <entry key="..\:/Users/hoangthien/Downloads/Compressed/Vatlythuvi/app/src/main/res/layout/ltc7.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/activity_main_screen.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/activity_ques.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/fragment_bt.xml" value="0.28958333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

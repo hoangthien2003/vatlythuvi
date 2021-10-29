@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <com.gauravk.bubblenavigation.BubbleNavigationConstraintView
+        android:id="@+id/bubbleNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white">
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/lt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_active="true"
+            app:bt_colorActive="@color/red"
+            app:bt_colorInactive="@color/black_40"
+            app:bt_icon="@drawable/home"
+            app:bt_title="LÝ THUYẾT" />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/bt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_active="true"
+            app:bt_colorActive="@color/red"
+            app:bt_colorInactive="@color/black_40"
+            app:bt_icon="@drawable/bt"
+            app:bt_title="BÀI TẬP" />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/th"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_active="true"
+            app:bt_colorActive="@color/red"
+            app:bt_colorInactive="@color/black_40"
+            app:bt_icon="@drawable/watch"
+            app:bt_title="VIDEO" />
+    </com.gauravk.bubblenavigation.BubbleNavigationConstraintView>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/bubbleNavigation">
+
+    </FrameLayout>
+</RelativeLayout>

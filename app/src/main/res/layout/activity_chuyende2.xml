@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red"
+    tools:context=".Baitap.Chuyende2.ActivityChuyende2">
+
+    <Button
+        android:id="@+id/buttoncd2_chude1"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="144dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="Chủ đề 1"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd2_chude2"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="200dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="Chủ đề 2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd2_chude4"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="312dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="Chủ đề 4"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd2_chude5"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="368dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="Chủ đề 5"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd2_chude6"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="424dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="Chủ đề 6"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd2_chude7"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="480dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="Chủ đề 7"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd2_chude3"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="256dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="Chủ đề 3"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red"
+    tools:context=".Baitap.Chuyende3.ActivityChuyende3">
+
+    <Button
+        android:id="@+id/buttoncd3_chude1_dang1"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="176dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="DẠNG 1"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd6_chude1_dang3"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="288dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="DẠNG 3"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd6_chude1_dang4"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="344dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="DẠNG 4"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd6_chude1_dang5"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="400dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="DẠNG 5"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttoncd6_chude1_dang2"
+        android:layout_width="260dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="232dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="DẠNG 2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
